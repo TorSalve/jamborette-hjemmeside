@@ -1,0 +1,60 @@
+title: "Tydal Jamborette 2024"
+description: >-
+  Kom og vær med til at skabe Dansk Spejderkorps Sydslesvigs 
+  korpslejr: Jamborette 2024. Lejren afholdes den 20.-27.juli 
+  2024 på Tydal.
+email: lejrchef@jamborette.de
+timezone: UTC
+baseurl: "/jamborette-hjemmeside"
+permalink: "/:title/"
+logo: "assets/images/Logo/logo.png"
+favicon: "assets/images/Logo/favicon.ico"
+author: TorSalve
+paginate: 30
+disqus: "jamborettewebsite"
+locale: da_dk
+lang: da_dk
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+# ganalytics: UA-113961478-1
+
+# Authors
+authors:
+  torsalve:
+    name: Tor-Salve
+    display_name: Tor-Salve
+    avatar: "assets/images/Authors/torsalve.png"
+    email: torsalve@jamborette.de
+    # web: https://www.wowthemes.net/category/jekyll-themes/
+    # twitter: https://twitter.com/wowthemesnet
+    description: "Lejrchef, Jamborette 2024"
+  brian:
+    name: Brian
+    display_name: Brian
+    avatar: "assets/images/Authors/brian.png"
+    email: brian@jamborette.de
+    # web: https://www.wowthemes.net/category/jekyll-themes/
+    # twitter: https://twitter.com/wowthemesnet
+    description: "Lejrchef, Jamborette 2024"
+
+# Social
+social:
+  # instagram: https://www.instagram.com/bootstrapstarter/
+  facebook: https://www.facebook.com/TydalJamborette
+  # twitter: https://twitter.com/bstartercom
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
