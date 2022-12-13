@@ -2,8 +2,9 @@
 layout: post
 title:  "Mød dine lejrchefer"
 author: torsalve
-categories: [ Jekyll, tutorial ]
+categories: [ Lejrledelsen ]
 image: /assets/images/Posts/skilte.jpg
+imagecredit: Tim Riediger
 comments: false
 ---
 

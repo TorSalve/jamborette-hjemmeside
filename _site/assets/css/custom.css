@@ -1,6 +1,3 @@
-/* 
-Don't want to use sass and simply modify the stylesheet in the old css fashion? 
-Just customize your theme here.
-================================================== */
+.featured-image{object-fit:cover;max-height:200px;width:100%}.image-caption{font-size:x-small;font-style:italic;text-align:right;display:block}.card img.rounded{object-fit:cover;max-height:125px;width:100%}
 
-body {}
+/*# sourceMappingURL=custom.css.map */

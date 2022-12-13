@@ -16,7 +16,13 @@ post_class: post-template
         
 		<div class="col-sm-8">
             <!-- Post Featured Image -->
-			{% if page.image %}<img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
+			{% if page.image %}
+            <img class="featured-image img-fluid rounded mb-0" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
+            {% if page.imagecredit %}
+            <span class="image-caption">Foto: {{ page.imagecredit }}</span>
+            {% endif %}
+            {% endif %}
+
 			<!-- End Featured Image -->
 			<div class="mainheading">             
                 
@@ -77,12 +83,14 @@ post_class: post-template
              <!-- Author Box -->
                 {% if page.author %}				
 				<div class="row post-top-meta">
-					<div class="col-md-2">
-						<img class="author-thumb" src="{{site.baseurl}}/{{author.avatar}}" alt="{{ author.display_name }}">
+					<div class="col-md-2 pr-0">
+						<img class="author-thumb pr-0 mr-0" src="{{site.baseurl}}/{{author.avatar}}" alt="{{ author.display_name }}">
 					</div>
-					<div class="col-md-10">
-						<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
-						<span class="author-description">{{ author.description }}</span>						
+					<div class="col-md-10 pl-0">
+						<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a>
+                        <!-- <a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a> -->
+                        <br>
+						<span class="author-description mt-0">{{ author.description }}</span>						
 					</div>
 				</div>				
                 {% endif %}

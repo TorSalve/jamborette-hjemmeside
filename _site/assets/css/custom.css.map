@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "custom.css",
+	"sources": [
+		"custom.scss"
+	],
+	"sourcesContent": [
+		"// @import \"../../_sass/bootstrap.scss\";\n\n//@import \"../../_sass/bootstrap/bootstrap.scss\";\n// content\n\n.featured-image {\n  object-fit: cover;\n  max-height: 200px;\n  width: 100%;\n}\n\n.image-caption {\n  font-size: x-small;\n  font-style: italic;\n  text-align: right;\n  display: block;\n}\n\n.card img.rounded {\n  object-fit: cover;\n  max-height: 125px;\n  width: 100%;\n}\n"
+	],
+	"names": [],
+	"mappings": "AAKA,AAAA,eAAe,AAAC,CACd,UAAU,CAAE,KAAK,CACjB,UAAU,CAAE,KAAK,CACjB,KAAK,CAAE,IAAI,CACZ,AAED,AAAA,cAAc,AAAC,CACb,SAAS,CAAE,OAAO,CAClB,UAAU,CAAE,MAAM,CAClB,UAAU,CAAE,KAAK,CACjB,OAAO,CAAE,KAAK,CACf,AAED,AAAA,KAAK,CAAC,GAAG,AAAA,QAAQ,AAAC,CAChB,UAAU,CAAE,KAAK,CACjB,UAAU,CAAE,KAAK,CACjB,KAAK,CAAE,IAAI,CACZ"
+}
