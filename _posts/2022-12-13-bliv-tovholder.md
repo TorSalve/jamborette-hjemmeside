@@ -3,7 +3,7 @@ layout: post
 title:  "Bliv tovholder på Jamborette 2024"
 author: torsalve
 categories: [ Lejrledelsen ]
-image: /assets/images/Posts/30167492_1798298486896796_716086017676332072_o.jpg
+image: /assets/images/Posts/20190629MZ005.jpeg
 imagecredit: Martin Ziemer
 comments: false
 ---
