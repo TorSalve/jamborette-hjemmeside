@@ -24,7 +24,7 @@ Som tovholder kommer du til at stå i spidsen for et udvalg, der skal løse en s
 
 - _Forplejning._ Udvalgets primære opgave er at forsørge alle deltager og hjælpere med mad. I udvalgets opgaver ligger bla. bestilling og håndtering af fødevarer, madudlevering og madlavning for hjælpere.
 - _Lejrliv._ Lejrliv er lejrens stemningsudvalg, idet det sørger for at lejrens emne bliver ført ud til lejrpladserne. Udvalget er også primært ansvarlig for fællesarrangementer under lejren. I udvalgets opgaver ligger bla. udvikling af åbnings- og afsluntningslejrbål, café og kiosk, lejrsærpræg og fællesarrangementer.
-- _Aktiviteter._ Udvalget står for at planlægge og afvikle aktiviteter til ulve, spejdere, klanspejdere og ledere. Ud over det vil udvalget står for en eventuell hike.
+- _Aktiviteter._ Udvalget står for at planlægge og afvikle aktiviteter til ulve, spejdere, klanspejdere og ledere. Ud over det vil udvalget står for større fællesaktiviteter, så som hike.
 - _Lejradministration._ Lejradministrationens opgave er opdelt mellem økonomi og administration. Tovholderne kan i samarbejde klare både økonomiske og administrative opgaver eller dele opgaverne i mellem dem.
   - _Økonomi._ Økonomi står forat udarbejde en plan for de økonomiske rammer for lejren og for at styre regnskabet for Jamborette 2024. Arbejdet finder sted i samarbejde med DSS Korpskassereren.
   - _Administration._ Administrationen skal fungere som bindeled mellem grupperne/lederne og lejren. I blandt opgaverne ligger der bla. Kontakt til deltagere, tilmeldingssystem og deltagerregistrering.
