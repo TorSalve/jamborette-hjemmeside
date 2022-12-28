@@ -3,14 +3,14 @@ layout: post
 title:  "Mød dine lejrchefer"
 author: torsalve
 categories: [ Lejrledelsen ]
-image: /assets/images/Posts/skilte.jpg
+image: /assets/images/Posts/skilte.png
 imagecredit: Tim Riediger
 comments: false
 ---
 
 # Mød lejrchef Brian Nielsen
 
-![Brian, da han var ung.](../assets/images/Authors/brian.jpg)
+![Brian, da han var ung.](../assets/images/Posts/brian.png)
 <span class="image-caption">Foto: Martin Ziemer</span>
 
 _Hvorfor synes du det er fedt at skulle være lejrchef for Jamborette 2024?_\
@@ -33,7 +33,7 @@ Jeg elsker sommerlejre, da man har mulighed for at være på lejr flere dage i t
 
 # Mød lejrchef Tor-Salve Dalsgaard
 
-![Tor-Salve, da han var ung.](../assets/images/Authors/torsalve.jpg)
+![Tor-Salve, da han var ung.](../assets/images/Posts/torsalve.png)
 <span class="image-caption">Foto: Martin Ziemer</span>
 
 _Hvorfor synes du det er fedt at være lejrchef for Jamborette 2024?_\

@@ -7,7 +7,7 @@ comments: false
 
 # En lejr af alle, for alle, med alle
 
-![En flok spejdere der sidder til et åbningslejrbål]({{site.baseurl}}/assets/images/Pages/lejrbål.jpeg)
+![En flok spejdere der sidder til et åbningslejrbål]({{site.baseurl}}/assets/images/Pages/vision/lejrbål.png)
 <span class="image-caption">Foto: Kira Kutscher</span>
 
 Lejren skal skabes og formes af deltagernes egne idéer. Spejderne skal inddrages i udviklingen af de aktiviteter der finder sted under lejren. Det kan være indslag til lejrbål, aktiviteter udformet af spejderne, eller oplevelser på et fælles samlingssted. På Jamborette 2024 skal der være plads til at alle der har mod og lyst kan være del af et fællesskab ud over det sædvanlige.
@@ -21,7 +21,7 @@ Kort sagt, vi ønsker spejderne bliver til modige samfundsborgere, der tør at t
 
 
 # En lejr med bæredygtighed som fundament
-![Et par spejdere i gang med at lave mad]({{site.baseurl}}/assets/images/Pages/bæredygtighed.jpeg)
+![Et par spejdere i gang med at lave mad]({{site.baseurl}}/assets/images/Pages/vision/bæredygtighed.png)
 <span class="image-caption">Foto: Tim Rediger</span>
 
 Som spejdere værner vi om naturen. Vi ønsker naturen også værner om os og de næste generationer. På Jamborette 2024 vil vi inddrage børn og ung i, hvordan og hvorfor vi træffer bæredygtige valg. Spejderne skal få en konkret oplevelse af hvilken positive forskel de kan gøre for naturen. Vi ønsker at lejrledelsen arbejder med konkrete mål for bæredygtighed indenfor de enkelte udvalg. Det kan tage form af økologisk madudlevering, gode muligheder og incitamenter for bæredygtig transport (fx, cykling til lejren, fælles transport, offentlig transport), eller aktiviteter der tager udgangspunkt i bæredygtighed.
@@ -33,7 +33,7 @@ Vi vil efterlade Tydal og vores omverden bedre end vi fandt dem.
 
 
 # En lejr i friluftslivet
-![En spejderpatrulje på hejk]({{site.baseurl}}/assets/images/Pages/hejk.jpeg)
+![En spejderpatrulje på hejk]({{site.baseurl}}/assets/images/Pages/vision/hejk.png)
 <span class="image-caption">Foto: Tim Rediger</span>
 
 Jamborette 2024 er en hyldest til friluftsliv. Lejren skal skabe rammer for at spejderne kan komme ud og opleve naturen. Enhver spejder skal være med; med til at finde vej, med til oplevelser, og med til at løse udfordringer.

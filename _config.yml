@@ -31,7 +31,7 @@ authors:
   torsalve:
     name: Tor-Salve
     display_name: Tor-Salve
-    avatar: "assets/images/Authors/torsalve.jpg"
+    avatar: "assets/images/Authors/torsalve.png"
     email: torsalve@jamborette.de
     # web: https://www.wowthemes.net/category/jekyll-themes/
     # twitter: https://twitter.com/wowthemesnet
@@ -39,7 +39,7 @@ authors:
   brian:
     name: Brian
     display_name: Brian
-    avatar: "assets/images/Authors/brian.jpg"
+    avatar: "assets/images/Authors/brian.png"
     email: brian@jamborette.de
     # web: https://www.wowthemes.net/category/jekyll-themes/
     # twitter: https://twitter.com/wowthemesnet
