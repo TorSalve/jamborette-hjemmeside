@@ -3,7 +3,7 @@ layout: post
 title:  "Mød dine lejrchefer"
 author: torsalve
 categories: [ Lejrledelsen ]
-image: /assets/images/Posts/skilte.png
+image: ./assets/images/Posts/skilte.png
 imagecredit: Tim Riediger
 comments: false
 ---

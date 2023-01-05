@@ -5,7 +5,7 @@ description: >-
   2024 på Tydal.
 email: lejrchef@jamborette.de
 timezone: UTC
-baseurl: "/jamborette-hjemmeside"
+baseurl: ""
 permalink: "/:title/"
 logo: "assets/images/Logo/logo.png"
 favicon: "assets/images/Logo/favicon.ico"
