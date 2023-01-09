@@ -34,7 +34,7 @@ Har du en makker du gerne vil arbejde sammen med som tovholder par? Så skriv en
 
 # Er du interesseret?
 
-Send os en motivativeret ansøgning på maks en side, hvori du fortæller os om hvordan du har lyst til at sætte præg på Jamborette 2024. Husk at nævne hvilket udvalg du er interesseret i og hvilken vision du har for udvalgets arbejde.
+Send os en motivativeret ansøgning på en halv til en hel side, hvori du fortæller os om hvordan du har lyst til at sætte præg på Jamborette 2024. Husk at nævne hvilket udvalg du er interesseret i og hvilken vision du har for udvalgets arbejde.
 
 Du kan læse om [lejrens vision](../vision/).
 
