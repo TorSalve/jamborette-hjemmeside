@@ -7,13 +7,30 @@ email: lejrchef@jamborette.de
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
+defaults:
+  # Journals
+  - scope:
+      path: "_posts/da"
+      type: posts
+    values:
+      permalink: :title
+      lang: da
+  # Essay
+  - scope:
+      path: "_posts/en"
+      type: posts
+    values:
+      permalink: en/:title
+      lang: en
 logo: "assets/images/Logo/logo.png"
 favicon: "assets/images/Logo/favicon.ico"
 author: TorSalve
 paginate: 30
 disqus: "jamborettewebsite"
-locale: da_dk
-lang: da_dk
+locale: da
+lang: da
+languages: ["en", "da"]
+# permalink: /:categories/:year/:month/:day/:title/
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1

@@ -1,3 +1,4 @@
+{%if lang == "da"%}
 <div class="sidebar sticky-top">
   <div class="sidebar-section">
     <h5><span>Bliv hjælper!</span></h5>
@@ -22,3 +23,29 @@
     </a>
   </div>
 </div>
+{%else%}
+<div class="sidebar sticky-top">
+  <div class="sidebar-section">
+    <h5><span>Volunteer!</span></h5>
+    Do you want to be part of creating a huge experience for children and young
+    adults? Then become a volunteer at Jamborette 2024!
+    <a
+      href="{{ site.baseurl }}/{{lang}}/volunteer"
+      class="btn btn-primary btn-block px-3 mt-2"
+    >
+      Read more
+    </a>
+  </div>
+
+  <div class="sidebar-section">
+    <h5><span>Do you have a good idea?</span></h5>
+    Then send it to the camp chiefs!
+    <a
+      href="mailto:lejrchef@jamborette.de?subject=Jeg har en god idé!"
+      class="btn btn-danger btn-block px-3 mt-2"
+    >
+      Send a message
+    </a>
+  </div>
+</div>
+{%endif%}

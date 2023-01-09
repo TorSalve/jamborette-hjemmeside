@@ -10,19 +10,19 @@ background: '/img/bg-index.jpg'
 
 <!-- Home Intro
 ================================================== -->
-{% if page.url == "/" %} 
+{% if page.url == "/en/" %} 
 <div class="rounded mb-5 hero">
   <div class="row align-items-center justify-content-between">
     <div class="col-md-6 text-center col-sm-6">
       <h1 class="font-weight-bold mb-4 serif-font">
         Jamborette 2024</h1>
-        <div class="font-weight-bold">20.-27. juli 2024</div>
+        <div class="font-weight-bold">20.-27. July 2024</div>
       <p class="lead mb-4">
-        Vær med til Dansk Spejderkorps Sydslesvigs korpslejr i sommeren 2024.
-        Følg med på vores sociale medier for at blive opdatere.
+        Join us for the Dansk Spejderkorps Sydslesvigs's camp in the summer of 2024.
+        Follow our social media to stay updated.
       </p>
       <a href="{{site.baseurl}}/vision" class="btn btn-dark text-white" style="white-space: normal;">
-        Læs om Jamborette 2024's vision
+        Read more about Jamborette 2024's vision
       </a>
     </div>
     <div class="col-md-6  col-sm-6">
@@ -51,7 +51,6 @@ background: '/img/bg-index.jpg'
 <section class="row">
   <div class="col-sm-8">
     <div class="row">
-      {% assign posts=paginator.posts | where: "lang", lang %}
       {% for post in posts %}
       {% unless post.featured == true %}
       <div class="col-md-6 mb-5">

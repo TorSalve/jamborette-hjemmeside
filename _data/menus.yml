@@ -1,41 +1,71 @@
-# Top Menu
-topmenu:
-  - title: "Jamborette 2024"
-    url: ""
-    # submenu:
-    #   - title: "test"
-    #     url: "test"
+languages:
+  - language: "da"
 
-  - title: "Vision"
-    url: "vision/"
+    topmenu:
+      - title: "Jamborette 2024"
+        url: ""
+        # submenu:
+        #   - title: "test"
+        #     url: "test"
 
-  - title: "Bliv hjælper"
-    url: "bliv-hjaelper/"
+      - title: "Vision"
+        url: "vision/"
 
-  - title: Kontakt
-    url: "kontakt/"
+      - title: "Bliv hjælper"
+        url: "bliv-hjaelper/"
 
-  # - title: Get this theme
-  #   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
-  #   class: "ml-2 btn btn-dark text-white px-3"
-  #   external: true
+      - title: Kontakt
+        url: "kontakt/"
 
-# Footer Menu
-footermenu:
-  - title: "Jamborette 2024"
-    url: ""
+      - title: "English"
+        url: "en/"
 
-  - title: Impressum
-    url: "https://spejder.de/impressum/"
-    external: true
+    footermenu:
+      - title: "Jamborette 2024"
+        url: ""
 
-  - title: Kontakt
-    url: "kontakt/"
+      - title: Impressum
+        url: "https://spejder.de/impressum/"
+        external: true
 
-  - title: "Dansk Spejderkorps Sydslesvig"
-    url: "https://spejder.de/"
-    external: true
+      - title: Kontakt
+        url: "kontakt/"
 
-  # - title: Download
-  #   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
-  #   external: true
+      - title: "Dansk Spejderkorps Sydslesvig"
+        url: "https://spejder.de/"
+        external: true
+
+  - language: "en"
+    topmenu:
+      - title: "Jamborette 2024"
+        url: "en/"
+        # submenu:
+        #   - title: "test"
+        #     url: "test"
+
+      - title: "Vision"
+        url: "en/camp-vision/"
+
+      - title: "Volunteers"
+        url: "en/volunteer/"
+
+      - title: Contact
+        url: "en/contact/"
+
+      - title: Dansk
+        url: ""
+
+    footermenu:
+      - title: "Jamborette 2024"
+        url: "en/"
+
+      - title: Impressum
+        url: "https://spejder.de/impressum/"
+        external: true
+
+      - title: Contact
+        url: "en/contact/"
+
+      - title: "Dansk Spejderkorps Sydslesvig"
+        url: "https://spejder.de/"
+        external: true
