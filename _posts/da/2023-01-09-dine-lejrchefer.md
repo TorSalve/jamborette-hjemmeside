@@ -14,7 +14,7 @@ comments: false
 <span class="image-caption">Foto: Martin Ziemer</span>
 
 _Hvorfor synes du det er fedt at skulle være lejrchef for Jamborette 2024?_\
-Sommerlejren plejer for de fleste spejdere at være årets højdepunkt. Jeg brænder for at skabe fede oplevelser børn og unge. Som Lejrchef vil jeg gerne sørge for at flest mulige sydslesvigske spejdere vil få en alletiders oplevelse.
+Sommerlejren plejer for de fleste spejdere at være årets højdepunkt. Jeg brænder for at skabe fede oplevelser for børn og unge. Som Lejrchef vil jeg gerne sørge for at flest mulige sydslesvigske spejdere vil få en alletiders oplevelse.
 
 _Hvad glæder du dig mest til på Jamborette 2024?_\
 Jeg glæder mig til at skabe en uforglemmlig oplevelse for spejdere i alle aldersgrupper. Og så glæder jeg mig vildt meget til når vi allesammen for første gang mødes til åbnings lejrbålet.
