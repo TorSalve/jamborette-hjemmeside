@@ -396,6 +396,16 @@ blockquote {
 .featured-image {
   display: block;
   margin-bottom: 2rem;
+
+  &.full-size {
+    object-fit: contain;
+  }
+
+  &.half-size {
+    object-fit: contain;
+    width: 60%;
+    max-height: 100%;
+  }
 }
 
 .full-width {
@@ -754,4 +764,8 @@ span.navigation:before {
   object-fit: cover;
   max-height: 125px;
   width: 100%;
+}
+
+.navbar-nav .dropdown-menu {
+  left: auto;
 }

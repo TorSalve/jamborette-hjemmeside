@@ -3,13 +3,18 @@ languages:
 
     topmenu:
       - title: "Jamborette 2024"
-        url: ""
-        # submenu:
-        #   - title: "test"
-        #     url: "test"
+        url: "#"
+        # external: true
+        submenu:
+          - title: "Vision"
+            url: "vision/"
+          # - title: "Lejrledelsen"
+          #   url: "lejrledelsen/"
+          # - title: "Lejrledelsen"
+          #   url: "lejrledelsen"
 
-      - title: "Vision"
-        url: "vision/"
+      # - title: "Vision"
+      #   url: "vision/"
 
       - title: "Bliv hjælper"
         url: "bliv-hjaelper/"

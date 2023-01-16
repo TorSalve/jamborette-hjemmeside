@@ -146,21 +146,31 @@
                 <a
                   class="nav-link px-3 {% if link.class %}{{link.class}}{% endif %} {% if link.submenu %}dropdown-toggle{% endif %}"
                   href="{% unless link.external %}{{link.baseurl}}/{% endunless %}{{link.url}}"
-                  alt="{{item.title}}"
+                  alt="{{link.title}}"
+                  {%
+                  if
+                  link.submenu
+                  %}data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                  role="button"
+                  id="{{link.title | slugify}}-dropdown"
+                  {%
+                  endif%}
                   >{{link.title}}</a
                 >
                 {% if link.submenu %}
                 <div
-                  class="dropdown-menu"
-                  aria-labelledby="navbarDropdownMenuLink"
+                  class="dropdown-menu dropdown-menu-end"
+                  aria-labelledby="{{link.title | slugify}}-dropdown"
                 >
                   {% for subitem in link.submenu %}
                   <a
                     class="dropdown-item font-weight-bold"
                     href="{% unless subitem.external %}{{site.baseurl}}/{% endunless %}{{subitem.url}}"
                     alt="{{subitem.title}}"
-                    >{{subitem.title}}</a
                   >
+                    {{subitem.title}}
+                  </a>
                   {% endfor %}
                 </div>
                 {% endif %}
