@@ -47,9 +47,9 @@ languages:
         # submenu:
         #   - title: "test"
         #     url: "test"
-
-      - title: "Vision"
-        url: "en/camp-vision/"
+        submenu:
+          - title: "Vision"
+            url: "en/camp-vision/"
 
       - title: "Volunteers"
         url: "en/volunteer/"
