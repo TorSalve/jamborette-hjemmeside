@@ -8,8 +8,8 @@ languages:
         submenu:
           - title: "Vision"
             url: "vision/"
-          # - title: "Lejrledelsen"
-          #   url: "lejrledelsen/"
+          - title: "Lejrledelsen"
+            url: "lejrledelsen/"
           # - title: "Lejrledelsen"
           #   url: "lejrledelsen"
 
