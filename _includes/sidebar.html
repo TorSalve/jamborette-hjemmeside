@@ -1,3 +1,7 @@
+<div>{% assign lang = "da" %}</div>
+<div>{% assign tmp_url = page.url | remove_first: "/en/"%}</div>
+<div>{% if page.url != tmp_url %} {% assign lang = "en" %} {% endif %}</div>
+
 {%if lang == "da"%}
 <div class="sidebar sticky-top">
   <div class="sidebar-section">
