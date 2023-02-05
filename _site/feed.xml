@@ -1,24 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="da">
-  <generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator>
-  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="da" />
-  <updated>2023-02-04T17:59:51+00:00</updated>
-  <id>http://localhost:4000/feed.xml</id>
-  <title type="html">Tydal Jamborette 2024</title>
-  <subtitle>Kom og vær med til at skabe Dansk Spejderkorps Sydslesvigs korpslejr: Jamborette 2024.
-    Lejren afholdes den 20.-27.juli 2024 på Tydal.</subtitle>
-  <author>
-    <name>TorSalve</name>
-  </author>
-  <entry xml:lang="da">
-    <title type="html">Bliv tovholder på Jamborette 2024</title>
-    <link href="http://localhost:4000/bliv-tovholder" rel="alternate" type="text/html"
-      title="Bliv tovholder på Jamborette 2024" />
-    <published>2023-01-21T00:00:00+00:00</published>
-    <updated>2023-01-21T00:00:00+00:00</updated>
-    <id>http://localhost:4000/bliv-tovholder</id>
-    <content type="html" xml:base="http://localhost:4000/bliv-tovholder"><![CDATA[<p>Vi leder efter Jamborette 2024’s kerne team; tovholdere der holder styr på trådene og står i spidsen for et udvalg under Jamborette 2024.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="da"><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="da" /><updated>2023-02-05T15:19:07+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Tydal Jamborette 2024</title><subtitle>Kom og vær med til at skabe Dansk Spejderkorps Sydslesvigs  korpslejr: Jamborette 2024. Lejren afholdes den 20.-27.juli  2024 på Tydal.</subtitle><author><name>TorSalve</name></author><entry xml:lang="da"><title type="html">Bliv tovholder på Jamborette 2024</title><link href="http://localhost:4000/bliv-tovholder" rel="alternate" type="text/html" title="Bliv tovholder på Jamborette 2024" /><published>2023-01-21T00:00:00+00:00</published><updated>2023-01-21T00:00:00+00:00</updated><id>http://localhost:4000/bliv-tovholder</id><content type="html" xml:base="http://localhost:4000/bliv-tovholder"><![CDATA[<p>Vi leder efter Jamborette 2024’s kerne team; tovholdere der holder styr på trådene og står i spidsen for et udvalg under Jamborette 2024.</p>
 
 <h1 id="tovholdernes-opgaver">Tovholdernes opgaver</h1>
 
@@ -60,25 +40,7 @@
 <p>Spejderhilsen,<br />
 Brian og Tor-Salve</p>
 
-<p><em>Spejderne, Jamborette 2024 og frivilligt arbejde er for alle – og Jamboretten opfordrer derfor alle uanset køn, alder, etnicitet, nationalitet, social baggrund, seksuell orientering, handicap og religiøst eller politisk ståsted til at søge.</em></p>]]></content>
-    <author>
-      <name>torsalve</name>
-    </author>
-    <category term="Lejrledelsen" />
-    <summary type="html"><![CDATA[Vi leder efter Jamborette 2024’s kerne team; tovholdere der holder styr på trådene og står i spidsen for et udvalg under Jamborette 2024.]]></summary>
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/"
-      url="http://localhost:4000/assets/images/Posts/20190629KK005.png" />
-    <media:content medium="image" url="http://localhost:4000/assets/images/Posts/20190629KK005.png"
-      xmlns:media="http://search.yahoo.com/mrss/" />
-  </entry>
-  <entry xml:lang="da">
-    <title type="html">Mød dine lejrchefer</title>
-    <link href="http://localhost:4000/dine-lejrchefer" rel="alternate" type="text/html"
-      title="Mød dine lejrchefer" />
-    <published>2023-01-09T00:00:00+00:00</published>
-    <updated>2023-01-09T00:00:00+00:00</updated>
-    <id>http://localhost:4000/dine-lejrchefer</id>
-    <content type="html" xml:base="http://localhost:4000/dine-lejrchefer"><![CDATA[<h1 id="mød-lejrchef-brian-nielsen">Mød lejrchef Brian Nielsen</h1>
+<p><em>Spejderne, Jamborette 2024 og frivilligt arbejde er for alle – og Jamboretten opfordrer derfor alle uanset køn, alder, etnicitet, nationalitet, social baggrund, seksuell orientering, handicap og religiøst eller politisk ståsted til at søge.</em></p>]]></content><author><name>torsalve</name></author><category term="Lejrledelsen" /><summary type="html"><![CDATA[Vi leder efter Jamborette 2024’s kerne team; tovholdere der holder styr på trådene og står i spidsen for et udvalg under Jamborette 2024.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/Posts/20190629KK005.png" /><media:content medium="image" url="http://localhost:4000/assets/images/Posts/20190629KK005.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="da"><title type="html">Mød dine lejrchefer</title><link href="http://localhost:4000/dine-lejrchefer" rel="alternate" type="text/html" title="Mød dine lejrchefer" /><published>2023-01-09T00:00:00+00:00</published><updated>2023-01-09T00:00:00+00:00</updated><id>http://localhost:4000/dine-lejrchefer</id><content type="html" xml:base="http://localhost:4000/dine-lejrchefer"><![CDATA[<h1 id="mød-lejrchef-brian-nielsen">Mød lejrchef Brian Nielsen</h1>
 
 <p><img src="../assets/images/Posts/brian.png" alt="Brian, da han var ung." />
 <span class="image-caption">Foto: Martin Ziemer</span></p>
@@ -124,25 +86,7 @@ Min bedste oplevelse var til Jamborette 2011, hvor vi fik lov til at dyrke vores
   <p><strong>E-mail:</strong> <a href="mailto:torsalve@jamborette.de">torsalve@jamborette.de</a><br />
 <strong>Gruppe:</strong> Angelbo Gruppe<br />
 <strong>Fun fact:</strong> Ifølge Danmarks Statistik er jeg den eneste Tor-Salve i hele Danmark.</p>
-</blockquote>]]></content>
-    <author>
-      <name>torsalve</name>
-    </author>
-    <category term="Lejrledelsen" />
-    <summary type="html"><![CDATA[Mød lejrchef Brian Nielsen]]></summary>
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/"
-      url="http://localhost:4000/assets/images/Posts/skilte.png" />
-    <media:content medium="image" url="http://localhost:4000/assets/images/Posts/skilte.png"
-      xmlns:media="http://search.yahoo.com/mrss/" />
-  </entry>
-  <entry xml:lang="en">
-    <title type="html">Meet your camp chiefs</title>
-    <link href="http://localhost:4000/en/your-camp-chiefs" rel="alternate" type="text/html"
-      title="Meet your camp chiefs" />
-    <published>2023-01-09T00:00:00+00:00</published>
-    <updated>2023-01-09T00:00:00+00:00</updated>
-    <id>http://localhost:4000/en/your-camp-chiefs</id>
-    <content type="html" xml:base="http://localhost:4000/en/your-camp-chiefs"><![CDATA[<h1 id="meet-camp-chief-brian-nielsen">Meet camp chief Brian Nielsen</h1>
+</blockquote>]]></content><author><name>torsalve</name></author><category term="Lejrledelsen" /><summary type="html"><![CDATA[Mød lejrchef Brian Nielsen]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/Posts/skilte.png" /><media:content medium="image" url="http://localhost:4000/assets/images/Posts/skilte.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Meet your camp chiefs</title><link href="http://localhost:4000/en/your-camp-chiefs" rel="alternate" type="text/html" title="Meet your camp chiefs" /><published>2023-01-09T00:00:00+00:00</published><updated>2023-01-09T00:00:00+00:00</updated><id>http://localhost:4000/en/your-camp-chiefs</id><content type="html" xml:base="http://localhost:4000/en/your-camp-chiefs"><![CDATA[<h1 id="meet-camp-chief-brian-nielsen">Meet camp chief Brian Nielsen</h1>
 
 <p><img src="../assets/images/Posts/brian.png" alt="Brian when he was young." />
 <span class="image-caption">Photo: Martin Ziemer</span></p>
@@ -188,15 +132,4 @@ My best experience was at Jamborette 2011, where we were allowed to grow our own
   <p><strong>E-mail:</strong> <a href="mailto:torsalve@jamborette.de">torsalve@jamborette.de</a><br />
 <strong>Group:</strong> Angelbo Group<br />
 <strong>Fun fact:</strong> According to Denmark’s Statistics, I am the only Tor-Salve in all of Denmark.</p>
-</blockquote>]]></content>
-    <author>
-      <name>torsalve</name>
-    </author>
-    <category term="Lejrledelsen" />
-    <summary type="html"><![CDATA[Meet camp chief Brian Nielsen]]></summary>
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/"
-      url="http://localhost:4000/assets/images/Posts/skilte.png" />
-    <media:content medium="image" url="http://localhost:4000/assets/images/Posts/skilte.png"
-      xmlns:media="http://search.yahoo.com/mrss/" />
-  </entry>
-</feed>
+</blockquote>]]></content><author><name>torsalve</name></author><category term="Lejrledelsen" /><summary type="html"><![CDATA[Meet camp chief Brian Nielsen]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/Posts/skilte.png" /><media:content medium="image" url="http://localhost:4000/assets/images/Posts/skilte.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
