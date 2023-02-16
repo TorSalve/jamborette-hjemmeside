@@ -16,8 +16,8 @@ languages:
       # - title: "Vision"
       #   url: "vision/"
 
-      # - title: "Bliv hjælper"
-      #   url: "bliv-hjaelper/"
+      - title: "Bliv hjælper"
+        url: "bliv-hjaelper/"
 
       - title: Kontakt
         url: "kontakt/"
@@ -51,8 +51,8 @@ languages:
           - title: "Vision"
             url: "en/camp-vision/"
 
-      # - title: "Volunteers"
-      #   url: "en/volunteer/"
+      - title: "Volunteers"
+        url: "en/volunteer/"
 
       - title: Contact
         url: "en/contact/"
