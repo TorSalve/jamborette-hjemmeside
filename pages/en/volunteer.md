@@ -10,4 +10,4 @@ Write below that you would like to join, so that the organisers can contact you.
 
 *The form is not binding and is not a registration for the camp.*
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSciNs3jIorvyQsyikB0eNJlUsMLYL-q4CLki5EYQV6jFcrVEQ/viewform?embedded=true" width="640" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSciNs3jIorvyQsyikB0eNJlUsMLYL-q4CLki5EYQV6jFcrVEQ/viewform?embedded=true" width="640" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
