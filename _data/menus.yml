@@ -17,7 +17,12 @@ languages:
       #   url: "vision/"
 
       - title: "Bliv hjælper"
-        url: "bliv-hjaelper/"
+        url: "#"
+        submenu:
+          - title: "Hjælper opslag"
+            url: "hjaelper-opslag/"
+          - title: "Meld dig frivillig"
+            url: "bliv-hjaelper/"
 
       - title: Kontakt
         url: "kontakt/"

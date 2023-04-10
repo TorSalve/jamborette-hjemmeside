@@ -13,6 +13,14 @@
 <lastmod>2023-01-21T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/hjaelper-opslag/cafe</loc>
+<lastmod>2023-04-09T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/hjaelper-opslag/kiosk</loc>
+<lastmod>2023-04-09T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/bliv-hjaelper/</loc>
 </url>
 <url>
@@ -26,6 +34,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/en/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/hjaelper-opslag/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
