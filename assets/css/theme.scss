@@ -52,6 +52,7 @@ body {
 main {
   min-height: 500px;
 }
+.h0,
 .h1,
 .h2,
 .h3,
@@ -75,6 +76,7 @@ h3,
 h4,
 h5,
 h6,
+.h0,
 .h1,
 .h2,
 .h3,
@@ -88,6 +90,10 @@ h4,
 h5,
 .h5 {
   line-height: 1.4;
+}
+
+.h0 {
+  font-size: 2.5rem;
 }
 
 h1,
@@ -225,7 +231,7 @@ small,
 }
 
 .hero h1 {
-  font-size: 2.5em;
+  // font-size: 2.5em;
 }
 .section-title h2 {
   font-weight: 700;
@@ -768,4 +774,83 @@ span.navigation:before {
 
 .navbar-nav .dropdown-menu {
   left: auto;
+}
+
+hr {
+  width: 100%;
+}
+
+.jumbotron {
+  background-color: #ffdfba;
+  border-radius: 0.25rem !important;
+}
+
+.logo-konkurrence {
+  .row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .headline {
+    @extend .jumbotron;
+    @extend .h1;
+
+    // background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    // background: linear-gradient(45deg, #ffdfba, #ee7752, #e73c7e);
+    // color: #333;
+    height: 100%;
+    padding: 15px;
+    text-align: center;
+    align-self: center;
+  }
+
+  img {
+    border-radius: 0.25rem !important;
+    max-width: 100%;
+    min-height: 250px;
+    height: 100%;
+    object-fit: cover;
+    max-height: 500px;
+  }
+
+  .card {
+    border: 1px solid #b5a083e3;
+
+    .card-header {
+      background-color: #ffdfbaba;
+      border-bottom: 1px solid #b5a083e3;
+    }
+
+    .card-footer {
+      color: #222;
+      background-color: #ffdfbaba;
+      border-top: 1px solid #b5a083e3;
+    }
+
+    .card-body:hover {
+      background-color: #ffdfba56;
+    }
+  }
+
+  .cards {
+    align-items: baseline;
+  }
+
+  a {
+    color: inherit;
+    box-shadow: inset 0 -2px 0 #ffe51f, 0 2px 0 #ffe51f;
+    &:hover {
+      box-shadow: inset 0 -30px 0 #ffe51f, 0 2px 0 #ffe51f;
+      text-decoration: none;
+    }
+  }
+
+  a.no-shadow {
+    box-shadow: none;
+
+    &:hover {
+      box-shadow: none;
+    }
+  }
 }

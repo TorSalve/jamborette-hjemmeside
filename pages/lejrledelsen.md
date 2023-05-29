@@ -3,10 +3,42 @@ layout: page
 title: Lejrledelsen
 permalink: "/lejrledelsen/"
 comments: false
-image: assets/images/Pages/jamborette-lejrledelse.png
-image_class: "half-size"
+image: assets/images/Pages/bygge-op.jpg
 ---
 
+Kontakt Jamborette 2024 på <info@jamborette.de>.
+
+# Lejrchefer
+Brian Nielsen
+
+Tor-Salve Dalsgaard
+
+# Administration
+Mette Hansen
+
+Hannes Dau
+
+# Lejrliv
+Gordon Meiermeister
+
+Manuela Kleinle
+
+# Kommunikation
+Freyja Wegner
+
+Tim Riediger
+
+# Aktiviteter
+Frigga Loeck
+
+Nina Krogh
+
+# Forplejning
+Marnie Pörksen
+
+Malte Pörksen
+
+<!--
 På denne side kan du læse mere om de enkelte udvalg under Jamborette 2024.
 
 - [Forplejning](#forplejning)
@@ -88,3 +120,5 @@ Vores kommunikationsudvalg vil være ansvarlig for alt ekstern kommunikation, s�
 - Lave en lejravis under lejren
 - Producere billed- (og eventuelt video-) materiale til forweekender og under lejren 
 - Udform en kommunikationsstrategie
+
+-->
