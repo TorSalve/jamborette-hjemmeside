@@ -13,17 +13,17 @@ languages:
           # - title: "Lejrledelsen"
           #   url: "lejrledelsen"
 
-      # - title: "Logo konkurrence"
-      #   url: "logo-konkurrence/"
-      #   submenu:
-      #     - title: "Logo konkurrence"
-      #       url: "logo-konkurrence/"
-      #     - title: "Naturmaterialer og farver"
-      #       url: "logo-konkurrence/naturmaterialer/"
-      #     - title: "Plante Collage"
-      #       url: "logo-konkurrence/plante-collage/"
-      #     - title: "Løb om lejrens tema og grundværdier"
-      #       url: "logo-konkurrence/tema-loeb/"
+      - title: "Logo konkurrence"
+        url: "logo-konkurrence/"
+        submenu:
+          - title: "Logo konkurrence"
+            url: "logo-konkurrence/"
+          - title: "Naturmaterialer og farver"
+            url: "logo-konkurrence/naturmaterialer/"
+          - title: "Plante Collage"
+            url: "logo-konkurrence/plante-collage/"
+          - title: "Løb om lejrens tema og grundværdier"
+            url: "logo-konkurrence/tema-loeb/"
 
       - title: "Bliv hjælper"
         url: "#"
