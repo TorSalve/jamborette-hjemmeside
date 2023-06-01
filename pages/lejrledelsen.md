@@ -19,7 +19,7 @@ Mette Hansen
 Hannes Dau
 
 # Lejrliv
-Gordon Meiermeister
+Gordon Miermeister
 
 Manuela Kleinle
 
