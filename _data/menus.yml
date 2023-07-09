@@ -24,7 +24,8 @@ languages:
             url: "logo-konkurrence/plante-collage/"
           - title: "Løb om lejrens tema og grundværdier"
             url: "logo-konkurrence/tema-loeb/"
-
+      - title: "Tilmelding"
+        url: "tilmelding/"
       - title: "Bliv hjælper"
         url: "#"
         submenu:
@@ -64,6 +65,9 @@ languages:
         submenu:
           - title: "Vision"
             url: "en/camp-vision/"
+
+      - title: "Registration"
+        url: "registration/"
 
       - title: "Volunteers"
         url: "en/volunteer/"

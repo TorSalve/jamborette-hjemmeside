@@ -5,4 +5,4 @@ permalink: "/kontakt/"
 comments: false
 ---
 
-Kontakt os på <lejrchef@jamborette.de>, hvis du har spørgsmål.
+Kontakt os på <info@jamborette.de>, hvis du har spørgsmål.

@@ -61,7 +61,13 @@
 <loc>http://localhost:4000/logo-konkurrence/plante-collage/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/registration/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/logo-konkurrence/tema-loeb/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tilmelding/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/vision/</loc>
