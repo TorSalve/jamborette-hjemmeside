@@ -36,7 +36,8 @@ background: '/img/bg-index.jpg'
 <!-- Featured
 ================================================== -->
 <section class="row">
-  {% assign posts=site.posts | where: "lang", lang %}
+  {% assign posts=site.posts | where: "lang", lang | where: "inactive",
+  null %}
     {% for post in posts %}
       {% if post.featured == true %}
         <div class="col-md-4 mb-5">
@@ -52,7 +53,8 @@ background: '/img/bg-index.jpg'
 <section class="row">
   <div class="col-sm-8">
     <div class="row">
-      {% assign posts=paginator.posts | where: "lang", lang %}
+      {% assign posts=paginator.posts | where: "lang", lang | where: "inactive",
+      null %}
       {% for post in posts %}
       {% unless post.featured == true %}
       <div class="col-md-6 mb-5">

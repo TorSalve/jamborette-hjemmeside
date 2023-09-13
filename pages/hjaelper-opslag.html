@@ -15,7 +15,8 @@ permalink: "hjaelper-opslag/"
 <!-- Posts List with Sidebar (except featured)
 ================================================== -->
 
-{% assign posts=site.posts | where: "hjaelperopslag", true %}
+{% assign posts=site.posts | where: "hjaelperopslag", true | where: "inactive",
+null %}
 
 <section class="row">
   <div class="col-sm-12">
