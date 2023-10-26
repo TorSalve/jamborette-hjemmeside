@@ -13,26 +13,38 @@ languages:
           # - title: "Lejrledelsen"
           #   url: "lejrledelsen"
 
-      - title: "Logo konkurrence"
-        url: "logo-konkurrence/"
+      - title: "Til spejdere"
+        url: "#"
         submenu:
           - title: "Logo konkurrence"
-            url: "logo-konkurrence/"
-          - title: "Naturmaterialer og farver"
-            url: "logo-konkurrence/naturmaterialer/"
-          - title: "Plante Collage"
-            url: "logo-konkurrence/plante-collage/"
-          - title: "Løb om lejrens tema og grundværdier"
-            url: "logo-konkurrence/tema-loeb/"
-      - title: "Tilmelding"
-        url: "tilmelding/"
-      - title: "Bliv hjælper"
+            url: "#"
+            submenu:
+              - title: "Logo konkurrence"
+                url: "logo-konkurrence/"
+              - title: "Naturmaterialer og farver"
+                url: "logo-konkurrence/naturmaterialer/"
+              - title: "Plante Collage"
+                url: "logo-konkurrence/plante-collage/"
+              - title: "Løb om lejrens tema og grundværdier"
+                url: "logo-konkurrence/tema-loeb/"
+
+      - title: "Til ledere"
+        url: "#"
+        submenu:
+          - title: "Forhåndstilmelding af din gruppe"
+            url: "tilmelding/"
+          # - title: ""
+          #   url: "deltager-pris/" #
+
+      - title: "Til hjælpere"
         url: "#"
         submenu:
           - title: "Hjælper opslag"
             url: "hjaelper-opslag/"
           - title: "Meld dig frivillig"
             url: "bliv-hjaelper/"
+          - title: "Forhåndstilmelding"
+            url: "tilmelding/hjælper" #
 
       - title: Kontakt
         url: "kontakt/"

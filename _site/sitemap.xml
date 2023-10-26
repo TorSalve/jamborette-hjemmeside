@@ -36,7 +36,16 @@
 <loc>http://localhost:4000/en/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/d6961/tilmelding/forh%C3%A5ndstilmelding</loc>
+</url>
+<url>
 <loc>http://localhost:4000/hjaelper-opslag/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/d6961/tilmelding/hj%C3%A6lper</loc>
+</url>
+<url>
+<loc>http://localhost:4000/d6961/tilmelding/hj%C3%A6lper-forh%C3%A5ndstilmelding</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -63,7 +72,7 @@
 <loc>http://localhost:4000/logo-konkurrence/tema-loeb/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tilmelding/</loc>
+<loc>http://localhost:4000/d6961/tilmelding/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/vision/</loc>

@@ -10,4 +10,4 @@ Skriv forneden at du har lyst til at være med, sådan at tovholderene kan konta
 
 *Formularen er ikke bindende og gælder ikke som tilmelding til lejren.*
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSciNs3jIorvyQsyikB0eNJlUsMLYL-q4CLki5EYQV6jFcrVEQ/viewform?embedded=true" width="640" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSciNs3jIorvyQsyikB0eNJlUsMLYL-q4CLki5EYQV6jFcrVEQ/viewform?embedded=true" width="750" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
