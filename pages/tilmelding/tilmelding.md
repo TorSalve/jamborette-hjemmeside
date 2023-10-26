@@ -14,7 +14,7 @@ Du tilmelder din gruppe ved hjælp af følgende formular: [Forhåndstilmelding](
 Den endelige tilmelding åbner omkring marts 2024.
 Når deltagerantallet når op på ca. 800, kan senere tilkomne enheder afvises.
 
-Er du hjælper? Læs mere om tilmelding af hjælpere [her](/d6961/tilmelding/hjælper/).
+Er du hjælper? Læs mere om tilmelding af hjælpere [her](/d6961/tilmelding/hjælper).
 
 # Hvad inkluderer prisen?
 Det koster 165€ for at være med fra den 20. juli og frem til den 27. juli. 
