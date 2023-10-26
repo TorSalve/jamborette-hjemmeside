@@ -23,7 +23,7 @@ Prisen er bestemt efter, at lejren skal løbe rundt, så der er penge til at dæ
 
 Når forhåndstilmeldingen er lukket vil I modtage en reserveringsbekræftelse der bl.a. indeholder en opkrævning af et depositum på 50€ per tilmeldt person.
 Depositum bliver modregnet den endelige pris for din gruppe.
-Den endelige betaling kommer til at ske efter lejren.
+Den endelige betaling kommer til at ske inden lejren.
 
 # Ulvelejr
 Tydal Jamborette 2024 tilbyder ulve, minier, og juniorer (6-12 årige) at deltage i en forkortet lejr.

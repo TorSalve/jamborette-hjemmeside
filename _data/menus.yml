@@ -17,7 +17,7 @@ languages:
         url: "#"
         submenu:
           - title: "Logo konkurrence"
-            url: "#"
+            url: "logo-konkurrence/"
             submenu:
               - title: "Logo konkurrence"
                 url: "logo-konkurrence/"
@@ -41,7 +41,7 @@ languages:
         submenu:
           - title: "Hjælper opslag"
             url: "hjaelper-opslag/"
-          - title: "Meld dig frivillig"
+          - title: "Bliv hjælper"
             url: "bliv-hjaelper/"
           - title: "Forhåndstilmelding"
             url: "tilmelding/hjælper" #
