@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tilmelding til hjælpere
-permalink: "/d6961/tilmelding/hjælper"
+permalink: "/tilmelding/hjælper"
 comments: false
 ---
 
@@ -15,13 +15,13 @@ Derfor vil der op til og under lejren være forskellige arrangementer og tiltag,
 Det kan f.eks. være kurser inden lejren, forskellige sociale arrangementer og aktiviteter målrettet hjælpere under lejren.
 
 # Sådan tilmelder du dig
-Du tilmelder dig ved hjælp af følgende formular: [Forhåndstilmelding](/d6961/tilmelding/hjælper-forhåndstilmelding).
+Du tilmelder dig ved hjælp af følgende formular: [Forhåndstilmelding](/tilmelding/hjælper-forhåndstilmelding).
 Formularen vil være åben indtil den endelige tilmelding åbner omkring marts 2024.
 
 Du skal have en fast aftale med et udvalg under Jamborette 2024 for at kunne tilmelde dig.
 Du kan melde dig frivillig ved at udfylde formularen [her](/bliv-hjaelper/).
 
-Vil du tilmelde din gruppe? Læs mere om tilmelding af din gruppe [her](/d6961/tilmelding/).
+Vil du tilmelde din gruppe? Læs mere om tilmelding af din gruppe [her](/tilmelding/).
 
 # Hvad inkluderer prisen?
 Hjælpere betaler en reduceret deltagerpris på 110€.

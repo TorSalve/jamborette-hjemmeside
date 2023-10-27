@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Forhåndstilmelding til hjælpere
-permalink: "/d6961/tilmelding/hjælper-forhåndstilmelding"
+permalink: "/tilmelding/hjælper-forhåndstilmelding"
 comments: false
 ---
 

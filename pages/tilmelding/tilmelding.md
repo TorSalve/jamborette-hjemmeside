@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Forhåndstilmelding
-permalink: "/d6961/tilmelding/"
+permalink: "/tilmelding/"
 comments: false
 ---
 
@@ -10,11 +10,11 @@ På denne side finder du al information du har brug for at forhåndstilmelde din
 Har du spørgsmål er du velkomen til at skrive til [info@jamborette.de](mailto:info@jamborette.de).
 
 # Sådan tilmelder du dig og din gruppe 
-Du tilmelder din gruppe ved hjælp af følgende formular: [Forhåndstilmelding](/d6961/tilmelding/forhåndstilmelding). 
+Du tilmelder din gruppe ved hjælp af følgende formular: [Forhåndstilmelding](/tilmelding/forhåndstilmelding). 
 Den endelige tilmelding åbner omkring marts 2024.
 Når deltagerantallet når op på ca. 800, kan senere tilkomne enheder afvises.
 
-Er du hjælper? Læs mere om tilmelding af hjælpere [her](/d6961/tilmelding/hjælper).
+Er du hjælper? Læs mere om tilmelding af hjælpere [her](/tilmelding/hjælper).
 
 # Hvad inkluderer prisen?
 Det koster 165€ for at være med fra den 20. juli og frem til den 27. juli. 
@@ -23,7 +23,7 @@ Prisen er bestemt efter, at lejren skal løbe rundt, så der er penge til at dæ
 
 Når forhåndstilmeldingen er lukket vil I modtage en reserveringsbekræftelse der bl.a. indeholder en opkrævning af et depositum på 50€ per tilmeldt person.
 Depositum bliver modregnet den endelige pris for din gruppe.
-Den endelige betaling kommer til at ske inden lejren.
+Den endelige betaling kommer til at ske kort før lejren.
 
 # Ulvelejr
 Tydal Jamborette 2024 tilbyder ulve, minier, og juniorer (6-12 årige) at deltage i en forkortet lejr.

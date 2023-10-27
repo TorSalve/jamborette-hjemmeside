@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Forhåndstilmelding
-permalink: "/d6961/tilmelding/forhåndstilmelding"
+permalink: "/tilmelding/forhåndstilmelding"
 comments: false
 ---
 
