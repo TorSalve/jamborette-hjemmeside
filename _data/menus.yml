@@ -78,11 +78,21 @@ languages:
           - title: "Vision"
             url: "en/camp-vision/"
 
-      - title: "Registration"
-        url: "registration/"
+      - title: "For leaders"
+        url: "#"
+        submenu:
+          - title: "Pre-registration of your group"
+            url: "en/registration/"
+          # - title: ""
+          #   url: "deltager-pris/" #
 
-      - title: "Volunteers"
-        url: "en/volunteer/"
+      - title: "For volunteers"
+        url: "#"
+        submenu:
+          - title: "Become a volunteer"
+            url: "en/become-a-volunteer/"
+          - title: "Pre-registration"
+            url: "en/registration/volunteer/" #
 
       - title: Contact
         url: "en/contact/"
