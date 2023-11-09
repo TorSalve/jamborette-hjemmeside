@@ -11,7 +11,7 @@ comments: false
 Ved du hvordan man laver god mad og forkæler en hånd fuld hjælper? 🍫 
 Kan du godt lide at udlevere varer til folk og sørge for at alt er på plads? 
 
-Så er det dig vi leder efter! 
+Så er det dig vi leder efter!
 
 Vi skal bruge hjælp til at få udleveret varer til grupperne og lave mad til hjælperkøkken, da maden er vigtig for god humør og stemningen på Jamboretten, for både alle hjælpere men også for alle spejder.⚜️ 
 
