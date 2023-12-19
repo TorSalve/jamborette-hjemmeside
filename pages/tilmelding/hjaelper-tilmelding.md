@@ -26,5 +26,6 @@ Vil du tilmelde din gruppe? Læs mere om tilmelding af din gruppe [her](/tilmeld
 # Hvad inkluderer prisen?
 Hjælpere betaler en reduceret deltagerpris på 110€.
 Prisen dækker kost og logi.
+Børn under 4 år betaler ikke.
 
 Når du har tilmeldt dig vil du få en automatisk bekræftelsesmail, her har du mulighed for at tjekke dine indtastede oplysninger.
