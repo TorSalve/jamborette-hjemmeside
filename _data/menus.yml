@@ -1,0 +1,116 @@
+languages:
+  - language: "da"
+
+    topmenu:
+      - title: "Jamborette 2024"
+        url: "#"
+        # external: true
+        submenu:
+          - title: "Vision"
+            url: "vision/"
+          - title: "Lejrledelsen"
+            url: "lejrledelsen/"
+          # - title: "Lejrledelsen"
+          #   url: "lejrledelsen"
+
+      - title: "Til spejdere"
+        url: "#"
+        submenu:
+          - title: "Logo konkurrence"
+            url: "logo-konkurrence/"
+            submenu:
+              - title: "Logo konkurrence"
+                url: "logo-konkurrence/"
+              - title: "Naturmaterialer og farver"
+                url: "logo-konkurrence/naturmaterialer/"
+              - title: "Plante Collage"
+                url: "logo-konkurrence/plante-collage/"
+              - title: "Løb om lejrens tema og grundværdier"
+                url: "logo-konkurrence/tema-loeb/"
+
+      - title: "Til ledere"
+        url: "#"
+        submenu:
+          - title: "Forhåndstilmelding af din gruppe"
+            url: "tilmelding/"
+          # - title: ""
+          #   url: "deltager-pris/" #
+
+      - title: "Til hjælpere"
+        url: "#"
+        submenu:
+          - title: "Hjælper opslag"
+            url: "hjaelper-opslag/"
+          - title: "Bliv hjælper"
+            url: "bliv-hjaelper/"
+          - title: "Forhåndstilmelding"
+            url: "tilmelding/hjælper" #
+
+      - title: Kontakt
+        url: "kontakt/"
+
+      - title: "English"
+        url: "en/"
+
+    footermenu:
+      - title: "Jamborette 2024"
+        url: ""
+
+      - title: Impressum
+        url: "https://spejder.de/impressum/"
+        external: true
+
+      - title: Kontakt
+        url: "kontakt/"
+
+      - title: "Dansk Spejderkorps Sydslesvig"
+        url: "https://spejder.de/"
+        external: true
+
+  - language: "en"
+    topmenu:
+      - title: "Jamborette 2024"
+        url: "en/"
+        # submenu:
+        #   - title: "test"
+        #     url: "test"
+        submenu:
+          - title: "Vision"
+            url: "en/camp-vision/"
+
+      - title: "For leaders"
+        url: "#"
+        submenu:
+          - title: "Pre-registration of your group"
+            url: "en/registration/"
+          # - title: ""
+          #   url: "deltager-pris/" #
+
+      - title: "For volunteers"
+        url: "#"
+        submenu:
+          - title: "Become a volunteer"
+            url: "en/become-a-volunteer/"
+          - title: "Pre-registration"
+            url: "en/registration/volunteer/" #
+
+      - title: Contact
+        url: "en/contact/"
+
+      - title: Dansk
+        url: ""
+
+    footermenu:
+      - title: "Jamborette 2024"
+        url: "en/"
+
+      - title: Impressum
+        url: "https://spejder.de/impressum/"
+        external: true
+
+      - title: Contact
+        url: "en/contact/"
+
+      - title: "Dansk Spejderkorps Sydslesvig"
+        url: "https://spejder.de/"
+        external: true
