@@ -10,12 +10,18 @@ languages:
             url: "vision/"
           - title: "Lejrledelsen"
             url: "lejrledelsen/"
+          - title: "Logo"
+            url: "logo-mærke/"
           # - title: "Lejrledelsen"
           #   url: "lejrledelsen"
 
       - title: "Til spejdere"
         url: "#"
-        # submenu:
+        submenu:
+          - title: "Dét sker på lejren"
+            url: "program/"
+          - title: "Foropgave"
+            url: "foropgave/"
         #   - title: "Logo konkurrence"
         #     url: "logo-konkurrence/"
         #     submenu:
@@ -33,6 +39,12 @@ languages:
         submenu:
           - title: "Forhåndstilmelding af din gruppe"
             url: "tilmelding/"
+          - title: "Dét sker på lejren"
+            url: "program/"
+          - title: "Infopakker"
+            url: "infopakker/"
+          - title: "Praktisk information"
+            url: "praktisk-information/"
           # - title: ""
           #   url: "deltager-pris/" #
 
