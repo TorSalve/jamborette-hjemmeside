@@ -11,7 +11,7 @@ languages:
           - title: "Lejrledelsen"
             url: "lejrledelsen/"
           - title: "Logo"
-            url: "logo-mærke/"
+            url: "logo/"
           # - title: "Lejrledelsen"
           #   url: "lejrledelsen"
 
@@ -89,10 +89,26 @@ languages:
         submenu:
           - title: "Vision"
             url: "en/camp-vision/"
+          - title: "Logo"
+            url: "en/logo-patch/"
+
+      - title: "For Scouts"
+        url: "#"
+        submenu:
+          - title: "Whats happening at camp"
+            url: "en/programme"
+          - title: "Pre-task"
+            url: "en/pre-task/"
 
       - title: "For leaders"
         url: "#"
         submenu:
+          - title: "Whats happening at camp"
+            url: "en/programme/"
+          - title: "Information packages"
+            url: "en/info-packages/"
+          - title: "Practical information"
+            url: "en/practical-information/"
           - title: "Pre-registration of your group"
             url: "en/registration/"
           # - title: ""
@@ -101,7 +117,7 @@ languages:
       - title: "For volunteers"
         url: "#"
         submenu:
-          - title: "Become a volunteer"
+          - title: "Volunteering"
             url: "en/become-a-volunteer/"
           - title: "Pre-registration"
             url: "en/registration/volunteer/" #

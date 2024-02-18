@@ -9,16 +9,33 @@
   width: 1px;
 }
 
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+
 $red: #ffb3ba;
 $orange: #ffdfba;
 $yellow: #ffffba;
 $green: #baffc9;
 $blue: #bae1ff;
 
-@import "bootstrap/bootstrap";
+$background: #fff;
+$fontcolor: #333;
+$primary: #6ea8ff;
+$secondary: #608655;
 
-@import url("https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap");
+$theme-colors: map-merge(
+  $theme-colors,
+  (
+    "primary": $primary,
+    "secondary": $secondary,
+  )
+);
+
+@import "bootstrap/bootstrap";
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap");
+// @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap");
+// @import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap");
 
 /* add additional CSS rules below */
 html {
@@ -26,17 +43,17 @@ html {
 }
 
 body {
-  background: #fff;
+  background: $background;
   font-size: 17px;
   transition: all 200ms linear;
-  font-family: "PT Sans", sans-serif;
+  font-family: "Roboto", "PT Sans", sans-serif;
   line-height: 1.7;
-  color: #333;
+  color: $fontcolor;
   overflow-x: hidden;
   padding-top: 116px;
 }
 .serif-font {
-  font-family: PT Serif;
+  font-family: "Roboto Slab", "PT Sans";
 }
 @media (max-width: 1366px) {
   .container-xl,
@@ -83,6 +100,7 @@ h6,
 .h4,
 .h5,
 .h6 {
+  @extend .serif-font;
   font-weight: 400;
 }
 h4,
@@ -99,16 +117,27 @@ h5,
 h1,
 .h1 {
   font-size: 1.6rem;
+  margin-top: 3rem;
 }
 
 h2,
 .h2 {
   font-size: 1.4rem;
+  margin-top: 1rem;
 }
 
 h3,
 .h3 {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
+  margin-top: 0.5rem;
+}
+
+.display-1,
+.display-2,
+.display-3,
+.display-4,
+.display-5 {
+  @extend .serif-font;
 }
 
 .font-weight-bold {
@@ -200,8 +229,15 @@ small,
 /* Pages
 ================================================== */
 .hero {
-  background: $orange;
+  margin-top: 1em;
+  background: rgba($secondary, 0.25);
   padding: 3vw 2vh;
+}
+
+.hero {
+  .intro {
+    max-height: 200px;
+  }
 }
 
 @media only screen and (max-width: 1024px) {
@@ -364,9 +400,6 @@ span.post-read-more a:hover {
 }
 .link-dark {
   color: rgba(0, 0, 0, 0.8);
-}
-.article-post > * {
-  margin-bottom: 1.5rem;
 }
 .article-post {
   font-size: 0.95em;
@@ -662,7 +695,7 @@ ul.tags li a:hover {
 .article-post h6 {
   font-weight: 400;
   font-family: PT Sans;
-  margin-top: 3rem;
+  // margin-top: 1.5rem;
 }
 
 img {
@@ -736,7 +769,7 @@ span.navigation:before {
 }
 
 .site-logo {
-  width: 35px;
+  max-height: 60px;
 }
 
 .dropdown:hover > .dropdown-menu {
@@ -836,21 +869,95 @@ hr {
   .cards {
     align-items: baseline;
   }
+}
 
-  a {
-    color: inherit;
-    box-shadow: inset 0 -2px 0 #ffe51f, 0 2px 0 #ffe51f;
-    &:hover {
-      box-shadow: inset 0 -30px 0 #ffe51f, 0 2px 0 #ffe51f;
-      text-decoration: none;
-    }
+.article-post a,
+a {
+  color: inherit;
+  box-shadow: inset 0 -2px 0 $secondary, 0 2px 0 $secondary;
+  &:hover {
+    color: $background;
+    box-shadow: inset 0 -30px 0 $secondary, 0 2px 0 $secondary;
+    text-decoration: none;
   }
+}
 
-  a.no-shadow {
+a.btn,
+h2.card-title a,
+a.no-shadow {
+  box-shadow: none;
+
+  &:hover {
     box-shadow: none;
+    color: $fontcolor;
+  }
+}
 
-    &:hover {
-      box-shadow: none;
+table {
+  @extend .table;
+  @extend .table-bordered;
+
+  $tableborder: lighten($secondary, 20%);
+  $tablerow1: lighten($secondary, 45%);
+  $tablerow2: lighten($secondary, 50%);
+
+  td {
+    border: 1px solid $tableborder;
+  }
+
+  thead th {
+    border: 1px solid $tableborder;
+    border-bottom: 2px solid $tableborder;
+  }
+
+  td:nth-child(2n) {
+    background-color: $tablerow1;
+  }
+
+  th:nth-child(2n) {
+    background-color: $tablerow1;
+  }
+
+  td:nth-child(2n + 1) {
+    background-color: $tablerow2;
+  }
+
+  th:nth-child(2n + 1) {
+    background-color: $tablerow2;
+  }
+  // tbody tr:nth-child(odd) {
+  //   ⋮ declarations
+  // }
+}
+
+@media screen and (max-width: 767px) {
+  .hide-mobile {
+    display: none !important;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .social-nav {
+    display: none !important;
+  }
+
+  .social-nav-inline {
+    display: block !important;
+
+    .social-icon {
+      margin-left: 0;
     }
   }
+}
+
+.social-nav-inline {
+  display: none;
+}
+
+img.image-border {
+  border: 2px $fontcolor solid;
+}
+
+table {
+  @extend .table-responsive;
 }

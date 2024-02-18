@@ -35,7 +35,33 @@ background: '/img/bg-index.jpg'
 {% if page.url == "/en/" %} 
 <div class="rounded mb-5 hero">
   <div class="row align-items-center justify-content-between">
-    <div class="col-md-6 text-center col-sm-6">
+    <div class="col-md-5 hide-mobile">
+      <div class="text-centered">
+        <img class="ml-4 rounded image-border" src="{{site.baseurl}}/assets/images/Pages/lejrbaal.jpg" style="max-height: 400px;">
+      </div>
+    </div>
+    <div class="col-md-7">
+      <div class="col-md-12 text-center col-sm-12 mb-4">
+        <!-- <h1 class="mb-2 display-4">
+          Tydal Jamborette 2024 </h1> -->
+        <img class="intro rounded" src="{{site.baseurl}}/assets/images/logo_side.png">
+          <!-- <h1 class="mb-4"><i> - vi knytter bånd</i></h1> -->
+      </div>
+        <div class="col-md-12 text-center col-sm-12 mb-4 lead">
+          <span>Join us for the Dansk Spejderkorps Sydslesvigs's camp in the summer of 2024.</span>
+          </br>
+          <span class="font-weight-bold">20.-27. July 2024</span>
+          </br>
+          <span>Pre-registration is open now!</span>
+        </div>
+        <div class="col-md-12 text-center col-sm-12">
+          <a href="{{site.baseurl}}/en/registration" class="btn btn-dark text-white" style="white-space: normal;">
+            Pre-register here
+          </a>
+        </div>
+      </div>
+    </div>
+    <!-- <div class="col-md-6 text-center col-sm-6">
       <h1 class="font-weight-bold mb-4 serif-font">
         Jamborette 2024</h1>
         <div class="font-weight-bold">20.-27. July 2024</div>
@@ -50,7 +76,7 @@ background: '/img/bg-index.jpg'
     </div>
     <div class="col-md-6  col-sm-6">
       <img class="intro rounded" height="500" src="{{site.baseurl}}/assets/images/gruppebillede.png">      
-    </div>
+    </div> -->
   </div>
 </div>
 {% endif %}
