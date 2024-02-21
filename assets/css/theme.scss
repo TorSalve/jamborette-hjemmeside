@@ -122,8 +122,13 @@ h1,
 
 h2,
 .h2 {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   margin-top: 1rem;
+
+  &:before {
+    content: "\00BB";
+    margin-right: 6px;
+  }
 }
 
 h3,
@@ -814,7 +819,7 @@ hr {
 }
 
 .jumbotron {
-  background-color: #ffdfba;
+  background-color: lighten($primary, 20%);
   border-radius: 0.25rem !important;
 }
 
@@ -901,6 +906,8 @@ table {
   $tablerow1: lighten($secondary, 45%);
   $tablerow2: lighten($secondary, 50%);
 
+  border: none;
+
   td {
     border: 1px solid $tableborder;
   }
@@ -910,24 +917,53 @@ table {
     border-bottom: 2px solid $tableborder;
   }
 
-  td:nth-child(2n) {
+  tr:nth-child(2n) {
     background-color: $tablerow1;
   }
 
-  th:nth-child(2n) {
+  tr:nth-child(2n) {
     background-color: $tablerow1;
   }
 
-  td:nth-child(2n + 1) {
+  tr:nth-child(2n + 1) {
     background-color: $tablerow2;
   }
 
-  th:nth-child(2n + 1) {
+  tr:nth-child(2n + 1) {
     background-color: $tablerow2;
   }
   // tbody tr:nth-child(odd) {
   //   ⋮ declarations
   // }
+
+  &.table-program {
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+
+    th,
+    td:nth-child(1) {
+      @extend .small;
+      font-weight: 400;
+      font-style: italic;
+    }
+
+    th:nth-child(1),
+    td:nth-child(1) {
+      border-right: 2px solid $tableborder;
+    }
+
+    .rotate {
+      max-width: 50px;
+      vertical-align: middle;
+      transform: rotate(-90deg);
+      -moz-transform: rotate(-90deg); /* FF3.5+ */
+      -o-transform: rotate(-90deg); /* Opera 10.5 */
+      -webkit-transform: rotate(-90deg); /* Saf3.1+, Chrome */
+      filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083); /* IE6,IE7 */
+      -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083)"; /* IE8 */
+    }
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -950,6 +986,10 @@ table {
   }
 }
 
+.social-icon:first-child {
+  margin-left: 0;
+}
+
 .social-nav-inline {
   display: none;
 }
@@ -958,6 +998,8 @@ img.image-border {
   border: 2px $fontcolor solid;
 }
 
-table {
-  @extend .table-responsive;
+iframe {
+  width: 100% !important;
+  // min-width: 200px;
+  margin: 0;
 }

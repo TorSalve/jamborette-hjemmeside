@@ -12,4 +12,6 @@ Tydal Jamborette 2024's lejrledelse inviterer alle spejdere fra 12 år og opefte
 
 Sammen skal vi sætte de første store spadestik til sommerens store lejr, Tydal Jamborette 2024, synge gamle og måske nye lejrsange og gøre os klar til lejren.
 
-Nærmere program og tilmelding følger snart.
+Nærmere program følger snart.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc-Fn5YCYETSbWZzPrfCbvkrb37zWb4TjcMFi10PACkB7qCKA/viewform?embedded=true" width="100%" height="2250" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

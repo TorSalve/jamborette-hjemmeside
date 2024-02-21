@@ -2,61 +2,84 @@ languages:
   - language: "da"
 
     topmenu:
-      - title: "Jamborette 2024"
+      - title: "Om Tydal Jamborette 2024"
         url: "#"
         # external: true
         submenu:
+          - title: "Logo"
+            url: "logo/"
           - title: "Vision"
             url: "vision/"
           - title: "Lejrledelsen"
             url: "lejrledelsen/"
-          - title: "Logo"
-            url: "logo/"
           # - title: "Lejrledelsen"
           #   url: "lejrledelsen"
-
-      - title: "Til spejdere"
+      - title: "Hvis du er..."
         url: "#"
         submenu:
-          - title: "Dét sker på lejren"
-            url: "program/"
-          - title: "Foropgave"
-            url: "foropgave/"
-        #   - title: "Logo konkurrence"
-        #     url: "logo-konkurrence/"
-        #     submenu:
-        #       - title: "Logo konkurrence"
-        #         url: "logo-konkurrence/"
-        #       - title: "Naturmaterialer og farver"
-        #         url: "logo-konkurrence/naturmaterialer/"
-        #       - title: "Plante Collage"
-        #         url: "logo-konkurrence/plante-collage/"
-        #       - title: "Løb om lejrens tema og grundværdier"
-        #         url: "logo-konkurrence/tema-loeb/"
+          - title: "Spejder"
+            url: "hvis-du-er/spejder/"
+          - title: "Leder"
+            url: "hvis-du-er/leder/"
+          - title: "Hjælper"
+            url: "hvis-du-er/hjælper/"
+          - title: "Forælder"
+            url: "hvis-du-er/forælder/"
 
-      - title: "Til ledere"
-        url: "#"
-        submenu:
-          - title: "Forhåndstilmelding af din gruppe"
-            url: "tilmelding/"
-          - title: "Dét sker på lejren"
-            url: "program/"
-          - title: "Infopakker"
-            url: "infopakker/"
-          - title: "Praktisk information"
-            url: "praktisk-information/"
-          # - title: ""
-          #   url: "deltager-pris/" #
+      # - title: "Til spejdere"
+      #   url: "#"
+      #   submenu:
+      #     - title: "Dét sker på lejren"
+      #       url: "program/"
+      #     - title: "Fremtidsfestival"
+      #       url: "fremtidsfestival/"
+      #   - title: "Logo konkurrence"
+      #     url: "logo-konkurrence/"
+      #     submenu:
+      #       - title: "Logo konkurrence"
+      #         url: "logo-konkurrence/"
+      #       - title: "Naturmaterialer og farver"
+      #         url: "logo-konkurrence/naturmaterialer/"
+      #       - title: "Plante Collage"
+      #         url: "logo-konkurrence/plante-collage/"
+      #       - title: "Løb om lejrens tema og grundværdier"
+      #         url: "logo-konkurrence/tema-loeb/"
 
-      - title: "Til hjælpere"
-        url: "#"
-        submenu:
-          - title: "Hjælper opslag"
-            url: "hjaelper-opslag/"
-          - title: "Bliv hjælper"
-            url: "bliv-hjaelper/"
-          - title: "Forhåndstilmelding"
-            url: "tilmelding/hjælper" #
+      # - title: "Til ledere"
+      #   url: "#"
+      #   submenu:
+      #     - title: "Forhåndstilmelding af din gruppe"
+      #       url: "tilmelding/"
+      #     - title: "Dét sker på lejren"
+      #       url: "program/"
+      #     - title: "Fremtidsfestival & foropgave"
+      #       url: "fremtidsfestival/"
+      #     # - title: "Infopakker"
+      #     #   url: "infopakker/"
+      #     - title: "Praktisk information"
+      #       url: "praktisk-information/"
+      #     - title: "Forweekend, 26.-28. April"
+      #       url: "forweekend/"
+      #     # - title: ""
+      #     #   url: "deltager-pris/" #
+
+      # - title: "Til hjælpere"
+      #   url: "#"
+      #   submenu:
+      #     - title: "Hjælper opslag"
+      #       url: "hjaelper-opslag/"
+      #     - title: "Bliv hjælper"
+      #       url: "bliv-hjaelper/"
+      #     - title: "Forhåndstilmelding"
+      #       url: "tilmelding/hjælper" #
+      #     - title: "Forweekend, 26.-28. April"
+      #       url: "forweekend/"
+
+      # - title: "Til forældre"
+      #   url: "#"
+      #   submenu:
+      #     - title: "Hvad er Tydal Jamborette"
+      #       url: "hvad-er-jamborette/"
 
       - title: Kontakt
         url: "kontakt/"
@@ -81,7 +104,7 @@ languages:
 
   - language: "en"
     topmenu:
-      - title: "Jamborette 2024"
+      - title: "Tydal Jamborette 2024"
         url: "en/"
         # submenu:
         #   - title: "test"
@@ -92,35 +115,47 @@ languages:
           - title: "Logo"
             url: "en/logo-patch/"
 
-      - title: "For Scouts"
+      - title: "If you are a..."
         url: "#"
         submenu:
-          - title: "Whats happening at camp"
-            url: "en/programme"
-          - title: "Pre-task"
-            url: "en/pre-task/"
+          - title: "Scout"
+            url: "en/if-you-are/scout/"
+          - title: "Leader"
+            url: "en/if-you-are/leader/"
+          - title: "Volunteer"
+            url: "en/if-you-are/volunteer"
+          - title: "Parent"
+            url: "en/if-you-are/parent"
 
-      - title: "For leaders"
-        url: "#"
-        submenu:
-          - title: "Whats happening at camp"
-            url: "en/programme/"
-          - title: "Information packages"
-            url: "en/info-packages/"
-          - title: "Practical information"
-            url: "en/practical-information/"
-          - title: "Pre-registration of your group"
-            url: "en/registration/"
-          # - title: ""
-          #   url: "deltager-pris/" #
+      # - title: "For Scouts"
+      #   url: "#"
+      #   submenu:
+      #     - title: "Whats happening at camp"
+      #       url: "en/programme"
+      #     - title: "Pre-task"
+      #       url: "en/pre-task/"
 
-      - title: "For volunteers"
-        url: "#"
-        submenu:
-          - title: "Volunteering"
-            url: "en/become-a-volunteer/"
-          - title: "Pre-registration"
-            url: "en/registration/volunteer/" #
+      # - title: "For leaders"
+      #   url: "#"
+      #   submenu:
+      #     - title: "Whats happening at camp"
+      #       url: "en/programme/"
+      #     - title: "Information packages"
+      #       url: "en/info-packages/"
+      #     - title: "Practical information"
+      #       url: "en/practical-information/"
+      #     - title: "Pre-registration of your group"
+      #       url: "en/registration/"
+      #     # - title: ""
+      #     #   url: "deltager-pris/" #
+
+      # - title: "For volunteers"
+      #   url: "#"
+      #   submenu:
+      #     - title: "Volunteering"
+      #       url: "en/become-a-volunteer/"
+      #     - title: "Pre-registration"
+      #       url: "en/registration/volunteer/" #
 
       - title: Contact
         url: "en/contact/"

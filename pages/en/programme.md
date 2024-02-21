@@ -1,25 +1,90 @@
 ---
 layout: page
-title: Whats happening at camp
-permalink: "/en/programme/"
+title: Program of the week
+permalink: "en/programme/"
 comments: false
 ---
 
-# Program of the week
+<!-- # Program of the week -->
+<!--
+|                            | <small>*Morning*</small> | <small>*Afternoon*</small> | <small>*Evening*</small> |
+| -------------------------- | ------------------------ | -------------------------- | ------------------------ |
+| <small>*Saturday*</small>  | Arrival                  |                            | Opening campfire         |
+| <small>*Sunday*</small>    |                          | Activity period            | Senior Activity          |
+| <small>*Monday*</small>    | Hikes                    | Hikes                      | Hikes                    |
+| <small>*Tuesday*</small>   | Hikes                    |                            | Scout night run          |
+| <small>*Wednesday*</small> | Activity period          | Activity period            | Wolf race                |
+| <small>*Thursday*</small>  | Future Festival          | Future Festival            | Joint activity           |
+| <small>*Friday*</small>    | Activity period          |                            | Final Campfire           |
+| <small>*Saturday*</small>  | Home journey             |                            |                          |
+-->
 
-|                            |     Saturday     |     Sunday      | Monday |     Tuesday     |      Wednesday       |    Thursday     |      Friday      |   Saturday   |
-| -------------------------- | :--------------: | :-------------: | :----: | :-------------: | :------------------: | :-------------: | :--------------: | :----------: |
-| <small>*Morning*</small>   |     Arrival      |                 |  Hike  |      Hike       |   Activity period    | Future Festival | Activity period  | Journey home |
-| <small>*Afternoon*</small> |                  | Activity period |  Hike  |                 |   Activity period    | Future Festival |                  |              |
-| <small>*Evening*</small>   | Opening campfire | Senior Activity |  Hike  | Scout night run | Cub evening activity | Joint activity  | Closing Campfire |              |
+<div class="table-responsive">
+<table class="table-program">
+<thead>
+   <tr>
+     <th colspan="1"></th>
+     <!-- <th></th> -->
+     <th>Morning</th>
+     <th>Afternoon</th>
+     <th>Evening</th>
+   </tr>
+</thead>
+<tbody>
+   <tr>
+     <td><small><i>Saturday</i></small></td>
+     <!-- <td rowspan="8" class="rotate">Flag Raising</td> -->
+     <td colspan="2">Arrival</td>
+     <td>Opening campfire</td>
+   </tr>
+   <tr>
+     <td>Sunday</td>
+     <td></td>
+     <td>Activity Period</td>
+     <td>Senior (16+) Activity</td>
+   </tr>
+   <tr>
+     <td>Monday</td>
+     <td colspan="3">Hike</td>
+   </tr>
+   <tr>
+     <td>Tuesday</td>
+     <td>Hike</td>
+     <td></td>
+     <td>Night activity for scouts</td>
+   </tr>
+   <tr>
+     <td>Wednesday</td>
+     <td>Activity Period</td>
+     <td>Activity Period</td>
+     <td>Night activity for cubs</td>
+   </tr>
+   <tr>
+     <td>Thursday</td>
+     <td colspan="3">Future Festival</td>
+   </tr>
+   <tr>
+     <td>Friday</td>
+     <td>Activity Period</td>
+     <td></td>
+     <td>Final campfire</td>
+   </tr>
+   <tr>
+     <td>Saturday</td>
+     <td colspan="2">Home journey</td>
+     <td></td>
+   </tr>
+</tbody>
+</table>
+</div>
 
 # Activities
 Meet the Midgard Serpent in our Viking town, move your body to cool music at our movement activity and compete against other groups in an interactive board game. The jamboree is jam-packed with exciting activities where there is room for all age groups. There will be a focus on community and the classic scouting spirit. The activities are framed through unique stories.
 
 As stated in the programme, there will be four activity periods of 2.5 hours, two in the morning from 09:30-12:00 and two in the afternoon from 14:00-16:30. Scouts (junior, troop and senior) will alternately experience the three activity centers which take place on Wednesday and Friday. During the activity period on Sunday, we are in the process of planning a joint activity. No additional registration is required.
 
-## The wolves between 6-10 years
-We have put together a separate program for our scouts between 6-10 years of age. The wolves (the mini and micro scouts), who arrive during Wednesday morning, will experience how the Anglers lived in the Iron Age. This is the theme for both the activity period on Wednesday afternoon and Friday morning.
+## The cubs between 6-10 years
+We have put together a separate program for our scouts between 6-10 years of age. The cubs (the mini and micro scouts), who arrive during Wednesday morning, will experience how the Anglers lived in the Iron Age. This is the theme for both the activity period on Wednesday afternoon and Friday morning.
 
 St. Georgsgilderne invites you to activities such as cooking, carving, felting and much more. In addition, we will hold Peter Pedal's birthday party on Friday.
 
@@ -30,7 +95,7 @@ A classic hike with a twist. We won't reveal anything yet - but we promise it wi
 Patrol-wise registration is required and you must be at least 11 years old to participate in the hike. The hike is approx. 25 km long.
 
 # Future Festival
-Thursday is earmarked for a very special event - a FUTURE FESTIVAL. Together, we must give the camp's children and young people a set of skills to face the future. The themes: creativity, communication, sustainable food, problem solving and teamwork form the starting point for today's programme.
+Thursday is earmarked for a very special event - a FUTURE FESTIVAL. Together, we must give the camp's children and young people a set of skills to face the future. The themes: creativity, communication, sustainable food, problem solving and teamwork form the starting point for today's programme. Read more [here](/en/future-festival).
 
 # Campfire
 The campfire is the starting point and the end of the camp. Take your friends by the arm and participate in our joint start and finish of the Jamborette 2024! We must sing, laugh, shout and create the best atmosphere together.
@@ -45,7 +110,7 @@ All groups are asked to make a feature. So put your heads together and come up w
 
 
 
-# Campnews
+# Camp News
 
 Welcome to Tyddelyt - your daily dose of fun, drama and adventure, served straight from the heart of the camp to your hands! Find a new (camp) lover, see the camp managers behind the scenes and read about today's great achievements! Bring your rumours, we'll spread them and put them in the spotlight.
 Our camp guide is your guide through the bustling world of camp life, where every moment counts. Get an insight into the unforgettable experiences we share together and create lasting memories with Tyddelyt.
@@ -53,8 +118,8 @@ Our camp guide is your guide through the bustling world of camp life, where ever
 Listen - because we serve drama and scandal for breakfast.
 
 
-# Night activity
-We have planned two exciting and nerve-wracking night races!
+# Night activites
+We have planned two exciting and nerve-wracking night activities!
 Tuesday evenings for those 11 years of age or older, and Wednesday evenings for those younger than 11 years.
 
-No registration required.
+No pre-registration required.

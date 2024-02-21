@@ -6,12 +6,77 @@ comments: false
 ---
 
 # Ugens program
+<!-- 
+|                          | <small>*Formiddag*</small> | <small>*Eftermiddag*</small> | <small>*Aften*</small> |
+| ------------------------ | -------------------------- | ---------------------------- | ---------------------- |
+| <small>*Lørdag*</small>  | Ankomst                    |                              | Åbningslejrbål         |
+| <small>*Søndag*</small>  |                            | Aktivitetsperiode            | Senioraktivitet        |
+| <small>*Mandag*</small>  | Hike                       | Hike                         | Hike                   |
+| <small>*Tirsdag*</small> | Hike                       |                              | Spejdernatløb          |
+| <small>*Onsdag*</small>  | Aktivitetsperiode          | Aktivitetsperiode            | Ulvenatløb             |
+| <small>*Torsdag*</small> | Fremtidsfestival           | Fremtidsfestival             | Fællesaktivitet        |
+| <small>*Fredag*</small>  | Aktivitetsperiode          |                              | Afslutningslejrbål     |
+| <small>*Lørdag*</small>  | Hjemrejse                  |                              |                        |
+-->
 
-|                              |     Lørdag     |      Søndag       | Mandag |    Tirsdag    |      Onsdag       |     Torsdag      |       Fredag       |  Lørdag   |
-| ---------------------------- | :------------: | :---------------: | :----: | :-----------: | :---------------: | :--------------: | :----------------: | :-------: |
-| <small>*Formiddag*</small>   |    Ankomst     |                   |  Hike  |     Hike      | Aktivitetsperiode | Fremtidsfestival | Aktivitetsperiode  | Hjemrejse |
-| <small>*Eftermiddag*</small> |                | Aktivitetsperiode |  Hike  |               | Aktivitetsperiode | Fremtidsfestival |                    |           |
-| <small>*Aften*</small>       | Åbningslejrbål |  Senioraktivitet  |  Hike  | Spejdernatløb |    Ulvenatløb     | Fællesaktivitet  | Afslutningslejrbål |           |
+<div class="table-responsive">
+<table class="table-program">
+<thead>
+  <tr>
+    <th colspan="1"></th>
+    <!-- <th></th> -->
+    <th>Formiddag</th>
+    <th>Eftermiddag</th>
+    <th>Aften</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><small><i>Lørdag</i></small></td>
+    <!-- <td rowspan="8" class="rotate">Flaghejsning</td> -->
+    <td colspan="2">Ankomst</td>
+    <td>Åbningslejrbål</td>
+  </tr>
+  <tr>
+    <td>Søndag</td>
+    <td></td>
+    <td>Aktivitetsperiode</td>
+    <td>Senioraktivitet</td>
+  </tr>
+  <tr>
+    <td>Mandag</td>
+    <td colspan="3">Hike</td>
+  </tr>
+  <tr>
+    <td>Tirsdag</td>
+    <td>Hike</td>
+    <td></td>
+    <td>Spejdernatløb</td>
+  </tr>
+  <tr>
+    <td>Onsdag</td>
+    <td>Aktivitetsperiode</td>
+    <td>Aktivitetsperiode</td>
+    <td>Ulvenatløb</td>
+  </tr>
+  <tr>
+    <td>Torsdag</td>
+    <td colspan="3">Fremtidsfestival</td>
+  </tr>
+  <tr>
+    <td>Fredag</td>
+    <td>Aktivitetsperiode</td>
+    <td></td>
+    <td>Afslutningslejrbål</td>
+  </tr>
+  <tr>
+    <td>Lørdag</td>
+    <td colspan="2">Hjemrejse</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+</div>
 
 # Aktiviteter
 Mød midgårdsormen i vores vikingeby, bevæg din krop til fed musik på vores bevægelsesaktivitet og dyst mod andre grupper i et interaktivt brætspil. Jamboretten er propfyldt med spændende aktiviteter, hvor der er plads til alle aldersgrupper. Der vil være fokus på fællesskabet og den klassiske spejderånd. Aktiviteterne rammesættes gennem unikke fortællinger. 
@@ -30,7 +95,7 @@ En klassisk hike med et twist. Vi røber ikke noget endnu - men vi lover det bli
 Kræver patruljevis tilmelding og man skal mindst være fyldt 11 år, for at deltage i hiken. Hiken er ca. 25km lang.
 
 # Fremtidsfestival
-Torsdag er øremærket til en helt særlig event - en FREMTIDSFESTIVAL. I fællesskab skal vi give lejrens børn og unge et sæt færdigheder til at gå fremtiden i møde. Temaerne: kreativitet, kommunikation, bæredygtig mad, problemløsning og teamwork danner udgangspunkt for dagens program.
+Torsdag er øremærket til en helt særlig event - en FREMTIDSFESTIVAL. I fællesskab skal vi give lejrens børn og unge et sæt færdigheder til at gå fremtiden i møde. Temaerne: kreativitet, kommunikation, bæredygtig mad, problemløsning og teamwork danner udgangspunkt for dagens program. Læs mere [her](/fremtidsfestival).
 
 # Lejrbål
 Lejrbål bliver startskuddet og afslutningen af lejren. Tag dine venner under armen og deltag i vores fælles start og afslutning af Jamboretten 2024! Vi skal synge, grine, råbe og skabe den bedste stemning sammen.
@@ -57,4 +122,4 @@ Tyddelyt - fordi drama og skandale serverer vi til morgenmad.
 Vi har planlagt to spændende og nervepirrende natløb!
 Tirsdag aften for dem der er 11 år eller ældre, og onsdag aften for dem der er yngre end 11 år.
 
-Kræver ingen tilmelding.
+Kræver ingen forhåndstilmelding.

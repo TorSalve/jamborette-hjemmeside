@@ -7,23 +7,22 @@ comments: false
 
 - [Scout farm Tydal](#scout-farm-tydal)
 - [Transport to Tydal](#transport-to-tydal)
-  - [Train](#train)
+  - [Took](#took)
   - [Bus](#bus)
   - [Bike](#bike)
   - [Trailer](#trailer)
 - [Sanitary conditions](#sanitary-conditions)
 - [Rafters and firewood](#rafters-and-firewood)
 
-
 ---
 
 # Scout farm Tydal
-Tydal Jamborette 2024 will take place at Spejdergården Tydal, a protected natural area down towards the Trene river, which in summer offers good swimming opportunities. Tydal's area covers a total of 74 ha of land with ball fields, forest and camp sites.
+Tydal Jamborette 2024 will take place at Spejdergården Tydal, a protected natural area down towards the Trene river, which in summer offers good bathing opportunities. Tydal's area covers a total of 74 ha of land with ball fields, forest and camp sites.
 The nearest towns are Eggebek (2 km) and Tarp (4 km). Spejdergården Tydal is centrally located and suitable as a starting point for bus trips to the region's many historic sites.
 Find more information at tydal.dk.
 # Transport to Tydal
 Tydal Jamborette 2024 is all about sustainability. Therefore, the camp will encourage you to arrange shared transport to the camp. The camp management can help with contact between the groups.
-## Train
+## Took
 The nearest railway station is in Tarp. From here it is a short walk of 5 km to the Jamborette. Tickets can be ordered via DSB (to Flensburg) and DB (Flensburg to Tarp).
 ## Bus
 Buses can stop close to the campsite. If there are not enough of you to fill a bus, you can contact one of the other participating groups and arrange shared transport.
@@ -39,7 +38,7 @@ The participation fee includes the usual consumption of rafters and firewood. Th
 <div class="jumbotron mt-5">
 <i>The page is continuously updated...</i>
 <br>
-We regularly announce more practical information. <a href="/en/contact/">Contact us</a> if you have any questions.
+We regularly announce more practical information. <a href="/contact/">Contact us</a> if you have any questions.
 <br>
-Last updated: 12.02.24.
+Last updated: {{ site.time | date: '%d.%m.%y' }}.
 </div>

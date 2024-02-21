@@ -40,5 +40,5 @@ Deltagerbetalingen inkluderer et almindeligt forbrug af rafter og brænde. Det v
 <br>
 Vi melder løbende mere praktisk information ud. <a href="/kontakt/">Kontakt os</a>, hvis du har spørgsmål.
 <br>
-Senest opdateret: 12.02.24.
+Senest opdateret: {{ site.time | date: '%d.%m.%y' }}.
 </div>

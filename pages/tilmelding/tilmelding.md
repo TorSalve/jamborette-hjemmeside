@@ -37,3 +37,11 @@ Der vil være aktiviter egnet til aldersgruppen under hele lejren, dog vil hoved
 Indiker gerne i forhåndstilmeldingen om I regner med at jeres ulve, minier, og juniorer deltager hele lejren eller kun dele af den.
 
 Deltagelse i ulvelejren vil blive afregnet ifølge dagsprissatsen, dvs. at deltagelse fra den 24. juli og frem til den 27. juli koster 90€.
+
+# Forventet lejrpladsleje for Tydal Jamborette 2024
+
+Hvis du er fra en gruppe i Danmark, så gør folkeoplysningsloven det muligt for grupperne at søge tilskud til lejrpladslejen hos kommunen. Reglerne varierer fra kommune til kommune, og det er værd at undersøge, hvordan det ser ud hos jer. Hvis du er i tvivl, kan du kontakte kommunen, som kan hjælpe dig videre.
+
+Den endelige lejrpladsleje pr. overnatning udgør:
+- 0€ for 0 til 3-årige
+- 5.50€ for 4-årige og opefter
