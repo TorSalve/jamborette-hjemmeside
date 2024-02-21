@@ -16,6 +16,7 @@ Det kan f.eks. være kurser inden lejren, forskellige sociale arrangementer og a
 
 # Sådan tilmelder du dig
 Du tilmelder dig ved hjælp af følgende formular: [Forhåndstilmelding](/tilmelding/hjælper-forhåndstilmelding).
+Når du har tilmeldt dig vil du få en automatisk bekræftelsesmail, her har du mulighed for at tjekke dine indtastede oplysninger.
 Formularen vil være åben indtil den endelige tilmelding åbner omkring marts 2024.
 
 Du skal have en fast aftale med et udvalg under Jamborette 2024 for at kunne tilmelde dig.
@@ -28,4 +29,5 @@ Hjælpere betaler en reduceret deltagerpris på 110€.
 Prisen dækker kost og logi.
 Børn under 4 år betaler ikke.
 
-Når du har tilmeldt dig vil du få en automatisk bekræftelsesmail, her har du mulighed for at tjekke dine indtastede oplysninger.
+## Frivillige der ikke bor på lejren
+Frivillige på Tydal Jamborette 2024, som ønsker at bo udenfor lejrpladsområdet, skal ikke betale for at deltage. Vær dog opmærksom på at man selv skal stå for forplejning, så husk at medbringe en madpakke.
