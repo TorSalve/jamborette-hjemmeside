@@ -35,5 +35,5 @@ We have collected a lot of practical information [here](/en/practical-informatio
 <br>
 We announce more information on an ongoing basis. <a href="/en/contact/">Contact us</a> if you have any questions.
 <br>
-Last updated: {{ site.time | date: '%d.%m.%y' }}.
+Last updated: 21.02.24.
 </div>

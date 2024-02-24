@@ -9,33 +9,27 @@ image: assets/images/Pages/bygge-op.jpg
 Kontakt Jamborette 2024 på <info@jamborette.de>.
 
 # Lejrchefer
-Brian Nielsen
-
+Brian Nielsen<br/>
 Tor-Salve Dalsgaard
 
 # Administration
-Mette Hansen
-
+Mette Hansen<br/>
 Hannes Dau
 
 # Lejrliv
-Gordon Miermeister
-
+Gordon Miermeister<br/>
 Manuela Kleinle
 
 # Kommunikation
-Freyja Wegner
-
+Freyja Wegner<br/>
 Tim Riediger
 
 # Aktiviteter
-Frigga Loeck
-
+Frigga Loeck<br/>
 Nina Krogh
 
 # Forplejning
-Marnie Pörksen
-
+Marnie Pörksen<br/>
 Malte Pörksen
 
 <!--

@@ -40,5 +40,5 @@ The participation fee includes the usual consumption of rafters and firewood. Th
 <br>
 We regularly announce more practical information. <a href="/contact/">Contact us</a> if you have any questions.
 <br>
-Last updated: {{ site.time | date: '%d.%m.%y' }}.
+Last updated: 21.02.24.
 </div>
