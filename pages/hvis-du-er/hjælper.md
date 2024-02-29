@@ -29,7 +29,7 @@ Program og tilmelding finder du [her](/forweekend/).
 
 ## Hvor skal vi bo og spise?
 
-Du bestemmer selv, om du vil bo sammen med din spejdergruppe, eller om du vil bo i hjælperlejren sammen med eksempelvis din klan eller familie. Som hjælper kan du få mad i hjælperkøkkenet, hvis du ikke bor sammen med din gruppe.
+Du bestemmer selv, om du vil bo sammen med din spejdergruppe, eller om du vil bo i hjælperlejren sammen med eksempelvis din klan eller familie. Som hjælper kan du få mad i hjælperkøkkenet, hvis du ikke spiser sammen med din gruppe.
 
 ## Reduktion i pris for hjælpere
 
