@@ -194,7 +194,7 @@ small,
   transition: all 0.3s ease-out;
 }
 .start-header.scroll-on {
-  padding: 5px 0;
+  padding: 5px 5%;
   -webkit-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
   box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.05);
@@ -805,10 +805,16 @@ span.navigation:before {
   display: block;
 }
 
-.card img.rounded {
-  object-fit: cover;
-  max-height: 125px;
-  width: 100%;
+.card {
+  a {
+    // min-height: 125px;
+  }
+
+  img.rounded {
+    object-fit: cover;
+    max-height: 125px;
+    width: 100%;
+  }
 }
 
 .navbar-nav .dropdown-menu {
@@ -1003,4 +1009,36 @@ iframe {
   width: 100% !important;
   // min-width: 200px;
   margin: 0;
+}
+
+.carousel {
+  .carousel-item {
+    max-height: 500px;
+    img {
+      @extend .rounded;
+      object-fit: contain;
+      width: auto;
+      height: auto;
+      max-width: 100%;
+      max-height: 100%;
+    }
+  }
+
+  .carousel-caption {
+    @extend .rounded;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 1.5rem 1.25rem;
+
+    h5 {
+      color: white;
+    }
+  }
+}
+
+.navigation-wrap {
+  padding: 2% 5%;
+}
+
+.navbar-collapse {
+  margin-left: 5%;
 }
