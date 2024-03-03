@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bæredygtighed: Den grønne tråde i Tydal Jamborette 2024's DNA"
+title:  "Bæredygtighed: Den grønne tråd i Tydal Jamborette 2024's DNA"
 author: torsalve
 image: ./assets/images/Logo/bæredygtighed_flad.png
 categories: [ Jamborette, Bæredygtighed ]
