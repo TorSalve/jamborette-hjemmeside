@@ -15,7 +15,7 @@ Det nærmere program og mere information bliver meld ud tættere på lejren.
 
 # Foropgave
 
-Alle grupper får til opgave at forberede en aktivitet på cirka 10-15 minutter, der kan rumme mindst 10-20 spejdere ad gangen. I er meget velkomne til at samarbejde med en venskabsgruppe og lave mere end en aktivitet.
+Alle grupper får til opgave at forberede en aktivitet på cirka 10-15 minutter, der kan rumme 10-20 spejdere ad gangen. I er meget velkomne til at samarbejde med en venskabsgruppe og lave mere end en aktivitet.
 Hver gruppe bliver tildelt et specifikt tema, som deres aktivitet skal bygge på. Forud for dagen skal I skrive til [info@jamborette.de](mailto:info@jamborette.de) senest en måned før lejren, hvis jeres aktivitet kræver særlige materialer, print eller madvarer.
 
 Temaerne er kreativitet, kommunikation, bæredygtig mad, problemløsning og teamwork. Grupperne får tildelt et emne efter den endelige tilmelding.
