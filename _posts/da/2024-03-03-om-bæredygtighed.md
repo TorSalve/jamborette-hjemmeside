@@ -21,5 +21,5 @@ På Tydal Jamborette 2024 skal vi afprøve og dygtiggøre os på forskellige asp
 
 
 [Læs mere om lejrens fællesskab.](/om-fællesskab)<br>
-<!-- [Læs mere om lejrens fokus på friluftsliv.](/om-friluftsliv)<br> -->
-<!-- [Læs mere om lejrens mærke.](/om-mærket) -->
+[Læs mere om lejrens fokus på friluftsliv.](/om-friluftsliv)<br>
+[Læs mere om lejrens mærke.](/om-mærket)

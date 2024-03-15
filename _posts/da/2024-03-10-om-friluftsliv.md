@@ -22,4 +22,4 @@ Også fremtiden foregår udendørs. Mennesket har brug for den friske luft og fo
 
 [Læs mere om lejrens fællesskab.](/om-fællesskab)<br>
 [Læs mere om lejrens bæredygtige fundament.](/om-bæredygtighed)<br>
-<!-- [Læs mere om lejrens mærke.](/om-mærket) -->
+[Læs mere om lejrens mærke.](/om-mærket)

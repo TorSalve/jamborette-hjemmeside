@@ -21,6 +21,6 @@ På Tydal Jamborette 2024 får spejderne lov til at komme hinanden ved og lære 
 <!-- #TydalJamborette2024 #FælleskabetsKraft #ViKnytterBånd -->
 
 
-<!-- [Læs mere om lejrens bæredygtige fundament.](/om-bæredygtighed)<br> -->
-<!-- [Læs mere om lejrens fokus på friluftsliv.](/om-friluftsliv)<br> -->
-<!-- [Læs mere om lejrens mærke.](/om-mærket) -->
+[Læs mere om lejrens bæredygtige fundament.](/om-bæredygtighed)<br>
+[Læs mere om lejrens fokus på friluftsliv.](/om-friluftsliv)<br>
+[Læs mere om lejrens mærke.](/om-mærket)
