@@ -26,8 +26,15 @@ Vil du tilmelde din gruppe? Læs mere om tilmelding af din gruppe [her](/tilmeld
 
 # Hvad inkluderer prisen?
 Hjælpere betaler en reduceret deltagerpris på 110€.
+Hjælpere der ønsker at deltage i færre dage betaler 20€ per overnatning.
 Prisen dækker kost og logi.
 Børn under 4 år betaler ikke.
 
 ## Frivillige der ikke bor på lejren
 Frivillige på Tydal Jamborette 2024, som ønsker at bo udenfor lejrpladsområdet, skal ikke betale for at deltage. Vær dog opmærksom på at man selv skal stå for forplejning, så husk at medbringe en madpakke.
+
+# Overnatning i indendørs værelse
+Der er mulighed for at booke et indendørs værelse til overnatning under lejren.
+Dette er forbeholdt dem der har et specifikt behov.
+Bookningen foregår via den endelige tilmelding.
+Værelsesfordelingen er først til mølle.

@@ -45,3 +45,9 @@ Hvis du er fra en gruppe i Danmark, så gør folkeoplysningsloven det muligt for
 Den endelige lejrpladsleje pr. overnatning udgør:
 - 0€ for 0 til 3-årige
 - 5.50€ for 4-årige og opefter
+
+# Overnatning i indendørs værelse
+Der er mulighed for at booke et indendørs værelse til overnatning under lejren.
+Dette er forbeholdt dem der har et specifikt behov.
+Bookningen foregår via den endelige tilmelding.
+Værelsesfordelingen er først til mølle.
