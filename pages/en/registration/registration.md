@@ -12,19 +12,15 @@ If you have any questions, please write to [info@jamborette.de](mailto:info@jamb
 # How to register and your group
 Final registration is now open.
 You register your group using the following form: [Registration](/en/registration/final-registration).
+In the form, you must state the final number of participants, as well as fill in practical information regarding food and the hike. Based on the data provided, the final bill will be generated.
 
 Are you a helper? Read more about registration for volunteers [here](/en/registration/volunteer).
 
 # What does the price include?
 It costs €165 to join from 20 July until 27 July.
 Participants who wish to participate in fewer days pay €30 per night.
-The price is determined after the camp has to run around, so that there is money to cover the costs of activities, equipment and catering.
+The price is determined after the camp has to run around, so that there is money to cover the costs of activities, equipment and food.
 Children under 4 years old do not pay.
-
-A deposit of €50 per registered person has been charged for pre-registration.
-The deposit will be deducted from the final price for your group.
-In case of cancellation, the deposit is not refunded.
-The final payment will be made shortly before the camp.
 
 # Cubcamp
 Tydal Jamborette 2024 offers cubs, minis and juniors (6-12 years old) to participate in a shortened camp.

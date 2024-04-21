@@ -11,7 +11,8 @@ Har du spørgsmål er du velkomen til at skrive til [info@jamborette.de](mailto:
 
 # Sådan tilmelder du dig og din gruppe 
 Den endelige tilmelding er åben.
-Du tilmelder din gruppe ved hjælp af følgende formular: [Tilmelding](/tilmelding/endelig-tilmelding). 
+Du tilmelder din gruppe ved hjælp af følgende formular: [Tilmelding](/tilmelding/endelig-tilmelding).
+I formularen skal du angive det endelige deltagerantal, samt udfylde praktisk information ifm. forplejning og hiken. På baggrund af de angivne data, vil den endelige regning blive genereret.
 
 Er du hjælper? Læs mere om tilmelding af hjælpere [her](/tilmelding/hjælper).
 
@@ -20,11 +21,6 @@ Det koster 165€ for at være med fra den 20. juli og frem til den 27. juli.
 Deltagere der ønsker at deltage i færre dage betaler 30€ per overnatning.
 Prisen er bestemt efter, at lejren skal løbe rundt, så der er penge til at dække udgifterne til aktiviteter, udstyr, og forplejning.
 Børn under 4 år betaler ikke.
-
-Ved forhåndstilmeldingen er der blevet opkrævet af et depositum på 50€ per tilmeldt person.
-Depositum bliver modregnet den endelige pris for din gruppe. 
-Ved afbud tilbagebetales depositum ikke.
-Den endelige betaling kommer til at ske kort før lejren.
 
 # Ulvelejr
 Tydal Jamborette 2024 tilbyder ulve, minier, og juniorer (6-12 årige) at deltage i en forkortet lejr.
