@@ -11,7 +11,7 @@ Vi vil løbende opdatere denne side med vigtig information efterhånden som mate
 
 # Tilmelding
 
-Lige nu er forhåndstilmeldingen for Tydal Jamborette 2024 åben. Du kan læse mere [her](/tilmelding/).
+Den endelige tilmelding for Tydal Jamborette 2024 åben nu. Du kan læse mere [her](/tilmelding/).
 
 # Dét sker på lejren
 

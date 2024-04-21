@@ -11,7 +11,7 @@ We will continuously update this page with important information as the material
 
 # Registration
 
-Right now, pre-registration for Tydal Jamborette 2024 is open. You can read more [here](/en/registration/).
+Right now, final registration for Tydal Jamborette 2024 is open. You can read more [here](/en/registration/).
 
 # That happens at the camp
 

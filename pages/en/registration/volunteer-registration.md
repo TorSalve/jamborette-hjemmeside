@@ -15,8 +15,10 @@ Therefore, there will be various events and initiatives leading up to and during
 These events can, for example, be courses before the camp or the various social events and activities aimed at helpers during the camp.
 
 # How to register
-Please register using the form: [Pre-registration](/en/registration/volunteer-pre-registration).
-The form will be open until the final registration opens around March 2024.
+Final registration for volunteers will open soon.
+You can still pre-register here: [Pre-registration](/en/registration/volunteer-pre-registration).
+
+<!-- Please register using the form: [Registration](/en/registration/volunteer-final-registration). -->
 
 You must have a fixed agreement with a committee during Jamborette 2024 to register.
 You can volunteer by filling out the form [here](/en/become-a-volunteer).

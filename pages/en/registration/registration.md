@@ -10,18 +10,18 @@ You will find all the information you need to pre-register your group on this pa
 If you have any questions, please write to [info@jamborette.de](mailto:info@jamborette.de).
 
 # How to register and your group
-You register your group using the form: [Pre-registration](/en/registration/pre-registration).
-Final registration opens around March 2024.
-When the number of participants reaches approx. 800 units added later may be rejected.
+Final registration is now open.
+You register your group using the following form: [Registration](/en/registration/final-registration).
 
-Are you a volunteer? Read more about registration of volunteers [here](/en/registration/volunteer).
+Are you a helper? Read more about registration for volunteers [here](/en/registration/volunteer).
 
 # What does the price include?
-It costs €165 to join the camp from the 20th of July until the 27th of July.
-Participants who wish to participate for fewer days pay €30 per night.
-The price is determined such that there is money to cover the costs of activities, overnight charges and food.
+It costs €165 to join from 20 July until 27 July.
+Participants who wish to participate in fewer days pay €30 per night.
+The price is determined after the camp has to run around, so that there is money to cover the costs of activities, equipment and catering.
+Children under 4 years old do not pay.
 
-When the pre-registration is closed, you will receive a reservation confirmation, which, among other things, contains a charge of a deposit of €50 per registered person.
+A deposit of €50 per registered person has been charged for pre-registration.
 The deposit will be deducted from the final price for your group.
 In case of cancellation, the deposit is not refunded.
 The final payment will be made shortly before the camp.
