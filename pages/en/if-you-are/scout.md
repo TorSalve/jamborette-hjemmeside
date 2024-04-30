@@ -18,3 +18,7 @@ You can read more about activities, hikes, the camp newspaper and much else that
 ## Future festival
 
 Thursday, 25 July 2024, is earmarked for a very special event - a FUTURE FESTIVAL. Together, we must give the camp's children and young people a set of skills to face the future. The themes: creativity, communication, sustainable food, problem solving and teamwork form the starting point for today's programme. Read more [here](/en/future-festival).
+
+## Camp song
+
+Tydal Jamborette 2024's camp song is out now! You can listen and sing along [here](/en/campsong).

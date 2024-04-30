@@ -25,6 +25,10 @@ Torsdag, d. 25. juli 2024, er øremærket til en helt særlig event - en FREMTID
 
 Som del af fremtidsfestivallen får alle grupper til opgave at forberede en lille aktivitet. Læs mere [her](/fremtidsfestival).
 
+## Lejrsang
+
+Tydal Jamborette 2024's lejrsang er ude nu! Du kan lytte og synge med [her](/lejrsang).
+
 # Forweekend
 
 Tydal Jamborette 2024’s lejrledelse inviterer alle spejdere fra 12 år og opefter den 26.-28. April 2024 i Jamborettens tegn. Ligemeget om du er mere til det kreative, et es i håndværk, har grønne fingre, elsker at lave mad eller står for lejrbålsunderholdning, så vil der være noget til alle denne weekend.
@@ -37,7 +41,7 @@ Program og tilmelding finder du [her](/forweekend).
 
 Vi har samlet en masse praktisk information [her](/praktisk-information/). Er der noget du mangler, [kontakt](/kontakt/) os gerne.
 
-<div class="jumbotron mt-5">
+<div class="jumbotron mt-5 px-3">
 <i>Siden opdateres løbende...</i>
 <br>
 Vi melder løbende mere information ud. <a href="/kontakt/">Kontakt os</a>, hvis du har spørgsmål.

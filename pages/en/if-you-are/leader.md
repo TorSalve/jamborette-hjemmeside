@@ -25,15 +25,18 @@ Thursday, 25 July 2024, is earmarked for a very special event - a FUTURE FESTIVA
 
 As part of the future festival, all groups are given the task of preparing a small activity. Read more [here](/en/future-festival).
 
+## Camp song
+
+Tydal Jamborette 2024's camp song is out now! You can listen and sing along [here](/en/campsong).
 
 # Practical information
 
 We have collected a lot of practical information [here](/en/practical-information/). If there is anything you are missing, please [contact](/en/contact/) us.
 
-<div class="jumbotron mt-5">
+<div class="jumbotron mt-5 px-3">
 <i>The page is continuously updated...</i>
 <br>
 We announce more information on an ongoing basis. <a href="/en/contact/">Contact us</a> if you have any questions.
 <br>
-Last updated: 21.02.24.
+Latest update: {{ site.time | date: '%d.%m.%y' }}.
 </div>
