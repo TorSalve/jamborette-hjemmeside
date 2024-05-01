@@ -6,77 +6,89 @@ comments: false
 ---
 
 # Ugens program
-<!-- 
-|                          | <small>*Formiddag*</small> | <small>*Eftermiddag*</small> | <small>*Aften*</small> |
-| ------------------------ | -------------------------- | ---------------------------- | ---------------------- |
-| <small>*Lørdag*</small>  | Ankomst                    |                              | Åbningslejrbål         |
-| <small>*Søndag*</small>  |                            | Aktivitetsperiode            | Senioraktivitet        |
-| <small>*Mandag*</small>  | Hike                       | Hike                         | Hike                   |
-| <small>*Tirsdag*</small> | Hike                       |                              | Spejdernatløb          |
-| <small>*Onsdag*</small>  | Aktivitetsperiode          | Aktivitetsperiode            | Ulvenatløb             |
-| <small>*Torsdag*</small> | Fremtidsfestival           | Fremtidsfestival             | Fællesaktivitet        |
-| <small>*Fredag*</small>  | Aktivitetsperiode          |                              | Afslutningslejrbål     |
-| <small>*Lørdag*</small>  | Hjemrejse                  |                              |                        |
--->
-
-<div class="table-responsive">
-<table class="table-program">
+<table class="tg">
 <thead>
   <tr>
-    <th colspan="1"></th>
-    <!-- <th></th> -->
-    <th>Formiddag</th>
-    <th>Eftermiddag</th>
-    <th>Aften</th>
+    <th class="col-white col-time"></th>
+    <th class="col-grey">Lørdag</th>
+    <th class="col-white">Søndag</th>
+    <th class="col-grey">Mandag</th>
+    <th class="col-white">Tirsdag</th>
+    <th class="col-grey">Onsdag</th>
+    <th class="col-white">Torsdag</th>
+    <th class="col-grey">Fredag</th>
+    <th class="col-white">Lørdag</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><small><i>Lørdag</i></small></td>
-    <!-- <td rowspan="8" class="rotate">Flaghejsning</td> -->
-    <td colspan="2">Ankomst</td>
-    <td>Åbningslejrbål</td>
+    <td class="col-white col-time">08:00</td>
+    <td class="col-grey" rowspan="5">Ankomst</td>
+    <td class="col-white cell-small">Morgenmad</td>
+    <td class="col-grey" rowspan="7">Hike</td>
+    <td class="col-white" rowspan="3">Hike</td>
+    <td class="col-grey cell-small">Morgenmad</td>
+    <td class="col-white cell-small">Morgenmad</td>
+    <td class="col-grey cell-small">Morgenmad</td>
+    <td class="col-white cell-small">Morgenmad</td>
   </tr>
   <tr>
-    <td>Søndag</td>
-    <td></td>
-    <td>Aktivitetsperiode</td>
-    <td>Senioraktivitet</td>
+    <td class="col-white col-time">09:00</td>
+    <td class="col-white cell-small">Flaghejsning</td>
+    <td class="col-grey cell-small">Flaghejsning</td>
+    <td class="col-white  cell-small">Flaghejsning</td>
+    <td class="col-grey cell-small">Flaghejsning</td>
+    <td class="col-white  cell-small">Flaghejsning</td>
   </tr>
   <tr>
-    <td>Mandag</td>
-    <td colspan="3">Hike</td>
+    <td class="col-white col-time">09:30</td>
+    <td class="col-white "></td>
+    <td class="col-grey">Aktivitetsperiode</td>
+    <td class="col-white " rowspan="3">Fremtidsfestival</td>
+    <td class="col-grey">Aktivitetsperiode</td>
+    <td class="col-white " rowspan="3">Hjemrejse</td>
   </tr>
   <tr>
-    <td>Tirsdag</td>
-    <td>Hike</td>
-    <td></td>
-    <td>Spejdernatløb</td>
+    <td class="col-white col-time">12:00</td>
+    <td class="col-white cell-small">Frokost</td>
+    <td class="col-white cell-small">Frokost</td>
+    <td class="col-grey  cell-small">Frokost</td>
+    <td class="col-grey cell-small">Frokost</td>
   </tr>
   <tr>
-    <td>Onsdag</td>
-    <td>Aktivitetsperiode</td>
-    <td>Aktivitetsperiode</td>
-    <td>Ulvenatløb</td>
+    <td class="col-white col-time">14:00</td>
+    <td class="col-white ">Aktivitetsperiode</td>
+    <td class="col-white"></td>
+    <td class="col-grey ">Aktivitetsperiode</td>
+    <td class="col-grey"></td>
+  </tr >
+  <tr>
+    <td class="col-white col-time">18:00</td>
+    <td class="col-grey  cell-small">Aftensmad</td>
+    <td class="col-white cell-small">Aftensmad</td>
+    <td class="col-white  cell-small">Aftensmad</td>
+    <td class="col-grey cell-small">Aftensmad</td>
+    <td class="col-white  cell-small">Aftensmad</td>
+    <td class="col-grey cell-small">Aftensmad</td>
+    <td class="col-white "></td>
   </tr>
   <tr>
-    <td>Torsdag</td>
-    <td colspan="3">Fremtidsfestival</td>
-  </tr>
-  <tr>
-    <td>Fredag</td>
-    <td>Aktivitetsperiode</td>
-    <td></td>
-    <td>Afslutningslejrbål</td>
-  </tr>
-  <tr>
-    <td>Lørdag</td>
-    <td colspan="2">Hjemrejse</td>
-    <td></td>
+    <td class="col-white col-time">20:00</td>
+    <td class="col-grey ">Åbningslejrbål</td>
+    <td class="col-white">Senioraktivitet</td>
+    <td class="col-white ">Spejdernatløb</td>
+    <td class="col-grey">Ulvenatløb</td>
+    <td class="col-white ">Fællesaktivitet</td>
+    <td class="col-grey">Afslutningslejrbål</td>
+    <td class="col-white "></td>
   </tr>
 </tbody>
 </table>
-</div>
+
+<small>
+<i>*scroll for at se mere.*</i>
+Tidspunkter kan ændre sig.
+</small>
 
 # Aktiviteter
 Mød midgårdsormen i vores vikingeby, bevæg din krop til fed musik på vores bevægelsesaktivitet og dyst mod andre grupper i et interaktivt brætspil. Jamboretten er propfyldt med spændende aktiviteter, hvor der er plads til alle aldersgrupper. Der vil være fokus på fællesskabet og den klassiske spejderånd. Aktiviteterne rammesættes gennem unikke fortællinger. 

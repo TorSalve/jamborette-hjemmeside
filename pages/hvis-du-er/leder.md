@@ -11,35 +11,36 @@ Vi vil løbende opdatere denne side med vigtig information efterhånden som mate
 
 # Tilmelding
 
-Den endelige tilmelding for Tydal Jamborette 2024 åben nu. Du kan læse mere [her](/tilmelding/).
+Den endelige tilmelding for Tydal Jamborette 2024 åben nu.<br>
+<a class="btn-link-btn" href="/tilmelding/">Du kan læse mere her.</a>
+
 
 # Dét sker på lejren
 
-Du kan læse mere om aktiviter, hike, lejravisen og meget andet der skal ske på lejren [her](/program/).
+Du kan læse mere om aktiviter, hike, lejravisen og meget andet der skal ske på lejren.<br>
+<a class="btn-link-btn" href="/program/">Du kan læse mere her.</a>
 
 ## Fremtidsfestival
 
-Torsdag, d. 25. juli 2024, er øremærket til en helt særlig event - en FREMTIDSFESTIVAL. I fællesskab skal vi give lejrens børn og unge et sæt færdigheder til at gå fremtiden i møde. Temaerne: kreativitet, kommunikation, bæredygtig mad, problemløsning og teamwork danner udgangspunkt for dagens program. Læs mere [her](/fremtidsfestival).
+Torsdag, d. 25. juli 2024, er øremærket til en helt særlig event - en FREMTIDSFESTIVAL. I fællesskab skal vi give lejrens børn og unge et sæt færdigheder til at gå fremtiden i møde. Temaerne: kreativitet, kommunikation, bæredygtig mad, problemløsning og teamwork danner udgangspunkt for dagens program.<br>
+<a class="btn-link-btn" href="/fremtidsfestival/">Du kan læse mere her.</a>
+
 
 ## Foropgave
 
-Som del af fremtidsfestivallen får alle grupper til opgave at forberede en lille aktivitet. Læs mere [her](/fremtidsfestival).
+Som del af fremtidsfestivallen får alle grupper til opgave at forberede en lille aktivitet.<br>
+<a class="btn-link-btn" href="/fremtidsfestival/">Du kan læse mere her.</a>
 
 ## Lejrsang
 
-Tydal Jamborette 2024's lejrsang er ude nu! Du kan lytte og synge med [her](/lejrsang).
-
-# Forweekend
-
-Tydal Jamborette 2024’s lejrledelse inviterer alle spejdere fra 12 år og opefter den 26.-28. April 2024 i Jamborettens tegn. Ligemeget om du er mere til det kreative, et es i håndværk, har grønne fingre, elsker at lave mad eller står for lejrbålsunderholdning, så vil der være noget til alle denne weekend.
-
-Sammen skal vi sætte de første store spadestik til sommerens store lejr, Tydal Jamborette 2024, synge gamle og måske nye lejrsange og gøre os klar til lejren.
-
-Program og tilmelding finder du [her](/forweekend).
+Tydal Jamborette 2024's lejrsang er ude nu!<br>
+<a class="btn-link-btn" href="/lejrsang/">Du kan lytte og synge med her.</a>
 
 # Praktisk information
 
-Vi har samlet en masse praktisk information [her](/praktisk-information/). Er der noget du mangler, [kontakt](/kontakt/) os gerne.
+Vi har samlet en masse praktisk information her.<br>
+<a class="btn-link-btn" href="/praktisk-information/">Du kan læse mere her.</a><br>
+Er der noget du mangler, [kontakt](/kontakt/) os gerne.
 
 <div class="jumbotron mt-5 px-3">
 <i>Siden opdateres løbende...</i>

@@ -5,78 +5,86 @@ permalink: "en/programme/"
 comments: false
 ---
 
-<!-- # Program of the week -->
-<!--
-|                            | <small>*Morning*</small> | <small>*Afternoon*</small> | <small>*Evening*</small> |
-| -------------------------- | ------------------------ | -------------------------- | ------------------------ |
-| <small>*Saturday*</small>  | Arrival                  |                            | Opening campfire         |
-| <small>*Sunday*</small>    |                          | Activity period            | Senior Activity          |
-| <small>*Monday*</small>    | Hikes                    | Hikes                      | Hikes                    |
-| <small>*Tuesday*</small>   | Hikes                    |                            | Scout night run          |
-| <small>*Wednesday*</small> | Activity period          | Activity period            | Wolf race                |
-| <small>*Thursday*</small>  | Future Festival          | Future Festival            | Joint activity           |
-| <small>*Friday*</small>    | Activity period          |                            | Final Campfire           |
-| <small>*Saturday*</small>  | Home journey             |                            |                          |
--->
-
-<div class="table-responsive">
-<table class="table-program">
+# Program
+# Program of the week
+<table class="tg">
 <thead>
    <tr>
-     <th colspan="1"></th>
-     <!-- <th></th> -->
-     <th>Morning</th>
-     <th>Afternoon</th>
-     <th>Evening</th>
+     <th class="col-white col-time"></th>
+     <th class="col-grey">Saturday</th>
+     <th class="col-white">Sunday</th>
+     <th class="col-grey">Monday</th>
+     <th class="col-white">Tuesday</th>
+     <th class="col-grey">Wednesday</th>
+     <th class="col-white">Thursday</th>
+     <th class="col-grey">Friday</th>
+     <th class="col-white">Saturday</th>
    </tr>
 </thead>
 <tbody>
    <tr>
-     <td><small><i>Saturday</i></small></td>
-     <!-- <td rowspan="8" class="rotate">Flag Raising</td> -->
-     <td colspan="2">Arrival</td>
-     <td>Opening campfire</td>
+     <td class="col-white col-time">08:00</td>
+     <td class="col-grey" rowspan="5">Arrival</td>
+     <td class="col-white cell-small">Breakfast</td>
+     <td class="col-grey" rowspan="7">Hike</td>
+     <td class="col-white" rowspan="3">Hike</td>
+     <td class="col-grey cell-small">Breakfast</td>
+     <td class="col-white cell-small">Breakfast</td>
+     <td class="col-grey cell-small">Breakfast</td>
+     <td class="col-white cell-small">Breakfast</td>
    </tr>
    <tr>
-     <td>Sunday</td>
-     <td></td>
-     <td>Activity Period</td>
-     <td>Senior (16+) Activity</td>
+     <td class="col-white col-time">09:00</td>
+     <td class="col-white cell-small">Flag Ceremony</td>
+     <td class="col-grey cell-small">Flag Ceremony</td>
+     <td class="col-white cell-small">Flag Ceremony</td>
+     <td class="col-grey cell-small">Flag Ceremony</td>
+     <td class="col-white cell-small">Flag Ceremony</td>
    </tr>
    <tr>
-     <td>Monday</td>
-     <td colspan="3">Hike</td>
+     <td class="col-white col-time">09:30</td>
+     <td class="col-white "></td>
+     <td class="col-grey">Activity period</td>
+     <td class="col-white " rowspan="3">Future Festival</td>
+     <td class="col-grey">Activity period</td>
+     <td class="col-white " rowspan="3">Journey home</td>
    </tr>
    <tr>
-     <td>Tuesday</td>
-     <td>Hike</td>
-     <td></td>
-     <td>Night activity for scouts</td>
+     <td class="col-white col-time">12:00</td>
+     <td class="col-white cell-small">Lunch</td>
+     <td class="col-white cell-small">Lunch</td>
+     <td class="col-grey cell-small">Lunch</td>
+     <td class="col-grey cell-small">Lunch</td>
    </tr>
    <tr>
-     <td>Wednesday</td>
-     <td>Activity Period</td>
-     <td>Activity Period</td>
-     <td>Night activity for cubs</td>
+     <td class="col-white col-time">14:00</td>
+     <td class="col-white ">Activity period</td>
+     <td class="col-white"></td>
+     <td class="col-grey ">Activity period</td>
+     <td class="col-grey"></td>
    </tr>
    <tr>
-     <td>Thursday</td>
-     <td colspan="3">Future Festival</td>
+     <td class="col-white col-time">18:00</td>
+     <td class="col-grey cell-small">Dinner</td>
+     <td class="col-white cell-small">Dinner</td>
+     <td class="col-white cell-small">Dinner</td>
+     <td class="col-grey cell-small">Dinner</td>
+     <td class="col-white cell-small">Dinner</td>
+     <td class="col-grey cell-small">Dinner</td>
+     <td class="col-white "></td>
    </tr>
    <tr>
-     <td>Friday</td>
-     <td>Activity Period</td>
-     <td></td>
-     <td>Final campfire</td>
-   </tr>
-   <tr>
-     <td>Saturday</td>
-     <td colspan="2">Home journey</td>
-     <td></td>
+     <td class="col-white col-time">20:00</td>
+     <td class="col-grey ">Opening campfire</td>
+     <td class="col-white">Senior Activity</td>
+     <td class="col-white ">Scout Nightactivity</td>
+     <td class="col-grey">Cups Evening activity</td>
+     <td class="col-white ">Joint activity</td>
+     <td class="col-grey">Final campfire</td>
+     <td class="col-white "></td>
    </tr>
 </tbody>
 </table>
-</div>
 
 # Activities
 Meet the Midgard Serpent in our Viking town, move your body to cool music at our movement activity and compete against other groups in an interactive board game. The jamboree is jam-packed with exciting activities where there is room for all age groups. There will be a focus on community and the classic scouting spirit. The activities are framed through unique stories.
