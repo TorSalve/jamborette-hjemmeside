@@ -15,9 +15,9 @@ Derfor vil der op til og under lejren være forskellige arrangementer og tiltag,
 Det kan f.eks. være kurser inden lejren, forskellige sociale arrangementer og aktiviteter målrettet hjælpere under lejren.
 
 # Sådan tilmelder du dig
-<!-- Du tilmelder dig ved hjælp af følgende formular: [Tilmelding](/tilmelding/hjælper-endelig-tilmelding). -->
-Den endelige tilmelding for hjælper åbner snart.
-Du kan stadig forhåndstilmelde dig her: [Forhåndstilmelding](/tilmelding/hjælper-forhåndstilmelding).
+Du tilmelder dig ved hjælp af følgende formular: [Tilmelding](/tilmelding/hjælper-endelig-tilmelding).
+<!-- Den endelige tilmelding for hjælper åbner snart.
+Du kan stadig forhåndstilmelde dig her: [Forhåndstilmelding](/tilmelding/hjælper-forhåndstilmelding). -->
 Når du har tilmeldt dig vil du få en automatisk bekræftelsesmail, her har du mulighed for at tjekke dine indtastede oplysninger.
 
 Du skal have en fast aftale med et udvalg under Tydal Jamborette 2024 for at kunne tilmelde dig.
