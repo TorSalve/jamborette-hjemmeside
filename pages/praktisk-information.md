@@ -187,3 +187,5 @@ Vi melder løbende mere praktisk information ud. <a href="/kontakt/">Kontakt os<
 <br>
 Senest opdateret: 18.05.24.
 </div>
+
+<a href="#top">Tilbage til toppen af siden.</a>
