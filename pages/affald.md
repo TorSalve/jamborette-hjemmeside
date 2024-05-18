@@ -243,9 +243,9 @@ På Tydal Jamborette 2024 sorterer vi affald i seks forskellige kategorier. Her 
     </h3>
     <div id="collapseGlas" class="accordion-collapse collapse" aria-labelledby="headingGlas" data-bs-parent="#accordionAffald">
       <div class="accordion-body">
-        Sorteres i glas container.
+        Sorteres i glas container.<br/>
         <strong>Det skal i</strong>:
-        <ul>
+        <ul class="check">
             <li>Engangsflasker</li>
             <li>Syltetøj og konserveringsglas</li>
             <li>Vin- og spiritusflasker</li>
@@ -254,7 +254,7 @@ På Tydal Jamborette 2024 sorterer vi affald i seks forskellige kategorier. Her 
             <li>Flasker med parfume</li>
         </ul>
         <strong>Det skal <i>ikke</i> i</strong>:
-        <ul>
+        <ul class="cross">
             <li>Spejl eller vinduesglas</li>
             <li>Tråd- eller fladt glas</li>
             <li>Keramiske kogeplader</li>

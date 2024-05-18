@@ -72,11 +72,6 @@ På Tydal sorterer vi affald efter de gældende regler i området, dvs. efter ty
 Du kan læse mere om affaldssortering på Tydal Jamborette 2024 på [jamborette.de/affald](/affald).
 Bemærk at affald kun kan afleveres på bestemte tidspunker under lejren.
 
-<!-- # Jeres lejrplads
-## Rafter og brænde
-Deltagerbetalingen inkluderer et almindeligt forbrug af rafter og brænde. Det vil sige, at hver gruppe har mulighed for at bygge en almindelig lejrplads med spisebord og indgangsportal. Har I planer om større byggeprojekter, så bedes I kontakte [info@jamborette.de](mailto:info@jamborette.de) på forhånd.
-## Fedtfælde -->
-
 # Program
 Du kan finde mere information på [jamborette.de/program](/program/). 
 ## Flaghejsning og -strygning
