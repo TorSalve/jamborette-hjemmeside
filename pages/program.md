@@ -104,7 +104,7 @@ Skt. Georgsgilderne inviterer på aktiviter som madlavning, at snitte, filte og 
 ## Hike
 En klassisk hike med et twist. Vi røber ikke noget endnu - men vi lover det bliver vildt!
 
-Kræver patruljevis tilmelding og man skal mindst være fyldt 11 år, for at deltage i hiken. Hiken er ca. 25km lang.
+Kræver patruljevis tilmelding (på lejren) og man skal mindst være fyldt 11 år, for at deltage i hiken. Hiken er ca. 25km lang.
 
 # Fremtidsfestival
 Torsdag er øremærket til en helt særlig event - en FREMTIDSFESTIVAL. I fællesskab skal vi give lejrens børn og unge et sæt færdigheder til at gå fremtiden i møde. Temaerne: kreativitet, kommunikation, bæredygtig mad, problemløsning og teamwork danner udgangspunkt for dagens program. Læs mere [her](/fremtidsfestival).

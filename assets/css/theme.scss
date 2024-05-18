@@ -1101,3 +1101,65 @@ iframe {
   @extend .btn-sm;
   // padding: 1px 5px;
 }
+
+.accordion h3 {
+  margin-top: 0px;
+}
+
+#accordionAffald {
+  ul {
+    list-style: none;
+  }
+  ul.check {
+    li:before {
+      content: "✅ ";
+    }
+  }
+
+  ul.cross {
+    li:before {
+      content: "❌ ";
+    }
+  }
+
+  #headingForpakninger .accordion-button {
+    background-color: #ffe60b;
+    color: black;
+  }
+
+  #headingRestaffald .accordion-button {
+    background-color: #161412;
+    color: white;
+    &::after {
+      background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='none' stroke='%23ffffff' stroke-linecap='round' stroke-linejoin='round'%3e%3cpath d='M2 5L8 11L14 5'/%3e%3c/svg%3e");
+    }
+  }
+
+  #headingMadaffald .accordion-button {
+    background-color: #c3a065;
+    color: white;
+    &::after {
+      background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='none' stroke='%23ffffff' stroke-linecap='round' stroke-linejoin='round'%3e%3cpath d='M2 5L8 11L14 5'/%3e%3c/svg%3e");
+    }
+  }
+
+  #headingPap .accordion-button {
+    background-color: #06682d;
+    color: white;
+
+    &::after {
+      background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='none' stroke='%23ffffff' stroke-linecap='round' stroke-linejoin='round'%3e%3cpath d='M2 5L8 11L14 5'/%3e%3c/svg%3e");
+    }
+  }
+
+  #headingGlas .accordion-button {
+    background-color: #007dbf;
+    color: white;
+    &::after {
+      background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='none' stroke='%23ffffff' stroke-linecap='round' stroke-linejoin='round'%3e%3cpath d='M2 5L8 11L14 5'/%3e%3c/svg%3e");
+    }
+  }
+  #headingAndet .accordion-button {
+    background-color: white;
+  }
+}
