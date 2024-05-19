@@ -33,9 +33,10 @@ comments: false
 - [Livet på lejren](#livet-på-lejren)
   - [Kiosk “Sand \& Scout”](#kiosk-sand--scout)
   - [Café](#café)
+  - [Betaling](#betaling)
+  - [Morgenfut](#morgenfut)
   - [Stille- og bederum](#stille--og-bederum)
   - [Tyddelyt](#tyddelyt)
-  - [Betaling](#betaling)
   - [Internet](#internet)
   - [Nattero](#nattero)
   - [Badning](#badning)
@@ -148,12 +149,14 @@ Cafeen kommer til at være lejrens mødested over en kop kakao eller kaffe. Der 
 
 *Cafeen vil være åbent det meste af tiden, med undtagelse for enkelte arrangementer, hvor den lukker for resten af lejren.
 **Efter klokken 22 vil der ikke være åbent for børn og unge under 18 år.
+## Betaling
+Betaling i cafeen og kiosken kommer til at foregår med Euro i kontanter.
+## Morgenfut
+Trænger de morgenfriske spejdere til lidt bevægelse så tilbyder vi morgenfut. Der vil være valgfrie, fysiske aktivteter som badning, løb eller yoga. Nærmere info meddeles til ledermødet dagen forinden.
 ## Stille- og bederum
 Der er adgang til stille og bederum i hovedbygningens første sal. Rummet er åbent hele dagen, alle ugens dage.
 ## Tyddelyt
 Tyddelyt er din lejravis som udkommer fysisk hver dag og kan læses forskellige steder på lejren. Her kan du se billeder, læse artikler om dagens begivenheder og få relevante informationer om morgendagens begivenheder. 
-## Betaling
-Betaling i cafeen og kiosken kommer til at foregår med Euro i kontanter. 
 ## Internet
 Der er trådløs internet på nogle steder af pladsen. Henvend jer til lejrkontoret, hvis der er brug for adgang
 ## Nattero
@@ -185,7 +188,7 @@ I Tyskland alameres det frivillige brandvæsen vha. sirener, som hyler 3 gange i
 <br>
 Vi melder løbende mere praktisk information ud. <a href="/kontakt/">Kontakt os</a>, hvis du har spørgsmål.
 <br>
-Senest opdateret: 18.05.24.
+Senest opdateret: 19.05.24.
 </div>
 
 <a href="#top">Tilbage til toppen af siden.</a>

@@ -291,6 +291,8 @@ At Tydal Jamborette 2024, we will sort waste into six different categories. Here
 
 # Practical
 
-Waste bags are provided in the food pick-up.
+120L waste bags are provided for packaging waste/yellow bags and for residual waste are provided in the food delivery.
+In addition, one box with lid is recommended for cardboard and paper and one for glass.
+Plastic bags may not be placed in the food waste container, nor biodegradable or compostable bags. It is therefore recommended to bring a large bucket with a lid. Such a bucket may borrowed.
 
 The waste station has opening hours. They will be announced as soon as possible.

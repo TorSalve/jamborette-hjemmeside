@@ -64,7 +64,7 @@ På Tydal Jamborette 2024 sorterer vi affald i seks forskellige kategorier. Her 
     </h3>
     <div id="collapseMadaffald" class="accordion-collapse collapse" aria-labelledby="headingMadaffald" data-bs-parent="#accordionAffald">
       <div class="accordion-body">
-        Sorteres i brun affaldstønde. Der må ikke være plastik eller andre poser i tønderne. Vi stiller spande til sortering tilrådighed.<br/>
+        Sorteres i brun affaldstønde. Der må ikke være plastik eller andre poser i tønderne. Vi stiller evt. spande til sortering til rådighed.<br/>
         <strong>Det skal i</strong>:
         <ul class="check">
             <li>Skræller og rester fra frugt og grøntsager (inklusive citrusfrugter)</li>
@@ -291,7 +291,9 @@ På Tydal Jamborette 2024 sorterer vi affald i seks forskellige kategorier. Her 
 
 # Praktisk
 
-Affaldssække udleveres i madudleveringen.
+Der udleveres 120L affaldssække til forpakningsaffald/gul sæk og til restaffald udleveres i madudleveringen.
+Derudover anbefales én kasse med låg til pap og papier og én til kasse til glas.
+Der må ikke kommes plastposer i madaffaldscontaineren, heller ikke bionedbrydelige eller komposterbare poser. Derfor anbefales det at tage en stor spand med låg med. En sådanne kan evt. lånes.
 
 Affaldsstationen har åbningstider. De bliver meldt ud snarrest.
 

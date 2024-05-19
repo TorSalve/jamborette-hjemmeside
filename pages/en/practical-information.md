@@ -27,15 +27,15 @@ comments: false
 - [The group's campsite](#the-groups-campsite)
   - [Campfires](#campfires)
   - [Grease traps](#grease-traps)
-  - [Burn](#burn)
+  - [Firewood](#firewood)
   - [Rafters](#rafters)
   - [Plant box](#plant-box)
 - [Life at the camp](#life-at-the-camp)
   - [Kiosk “Sand \& Scout”](#kiosk-sand--scout)
   - [Café](#café)
+  - [Payment](#payment)
   - [Quiet and prayer room](#quiet-and-prayer-room)
   - [Tyddelyt](#tyddelyt)
-  - [Payment](#payment)
   - [Internet](#internet)
   - [Quitetime](#quitetime)
   - [Bathing](#bathing)
@@ -123,7 +123,7 @@ Each group is given a starter box with common spices and waste bags, as well as 
 As a starting point, the existing campfires on the assigned campsite must be used. A new one may only be dug if there is no fire pit. Newly dug fire pits must be swept after the camp. Campfires must be left nicer than they are.
 ## Grease traps
 Grease traps must not be dug on the campsite itself, but in a safe place in the vegetation. Food scraps must not be poured into the grease trap - only waste water.
-## Burn
+## Firewood
 A regular use of firewood is included. Firewood sheds can be found on the camp map.
 ## Rafters
 There are rafters on Tydal. Each group has the opportunity to build a regular camp site. Raftegård can be found on the camp map.
@@ -148,12 +148,12 @@ The cafe will be the camp's meeting place over a cup of cocoa or coffee. There w
 
 *The cafe will be open most of the time, with the exception of certain events, where it will be closed for the rest of the camp.
 **After 10 pm it will not be open for children and young people under 18 years of age.
+## Payment
+Payment in the cafe and kiosk will take place in Euros in cash.
 ## Quiet and prayer room
 There is access to quiet and prayer rooms on the first floor of the main building. The room is open all day, every day of the week.
 ## Tyddelyt
 Tyddelyt is your camp newspaper, which is published physically every day and can be read in different places at the camp. Here you can see pictures, read articles about today's events and get relevant information about tomorrow's events.
-## Payment
-Payment in the cafe and kiosk will take place in Euros in cash.
 ## Internet
 There is wireless internet in some places on the square. Please contact the camp office if access is required
 ## Quitetime
@@ -184,5 +184,5 @@ In Germany, the voluntary fire service is alerted using sirens, which howl 3 tim
 <br>
 We regularly announce more practical information. <a href="/en/contact/">Contact us</a> if you have any questions.
 <br>
-Last updated: 18.05.24.
+Last updated: 19.05.24.
 </div>
