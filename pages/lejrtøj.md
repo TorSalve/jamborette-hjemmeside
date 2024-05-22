@@ -38,7 +38,7 @@ Send os gerne en besked på [info@jamborette.de](mailto:info@jamborette.de), hvi
 | T-Shirt     | Voksen | ~~€21.00~~ €19.00  | XXS, XS, S, M, L, XL, XXL, 3XL, 4XL, 5XL            | Aquamarine | <a href="https://www.nativespirit-ns.com/en/ns300.html" target="_blank">nativespirit-ns.com/en/ns300.html</a> |
 | Sweatshirt  | Voksen | ~~€40.00~~  €38.00 | XXS, XS, S, M, L, XL, XXL, 3XL, 4XL                 | Aquamarine | <a href="https://www.nativespirit-ns.com/en/ns400.html" target="_blank">nativespirit-ns.com/en/ns400.html</a> |
 
-\* Priserne gælder kun til forudbestilling indtil d. 23.06.24. Lejrtøj kan komme til at koste €2 mere under lejren. <br/>
+\* Priserne gælder kun til forudbestilling indtil d. 23.06.24.<br/>
 \*\* Du kan finde en størrelsesguide her: <a href="https://www.nativespirit-ns.com/en/sizing-guide" target="_blank">nativespirit-ns.com/en/sizing-guide</a>.
 
 
