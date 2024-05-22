@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lejrtøj bestilling
-permalink: "/lejrtøj/bestilling"
+permalink: "/lejrtøj/bestilling/"
 comments: false
 ---
 

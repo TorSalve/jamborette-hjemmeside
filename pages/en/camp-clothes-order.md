@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Order camp clothes
-permalink: "/en/camp-clothes/order"
+permalink: "/en/camp-clothes/order/"
 comments: false
 ---
 
