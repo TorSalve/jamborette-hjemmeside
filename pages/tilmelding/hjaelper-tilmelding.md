@@ -20,8 +20,8 @@ Du tilmelder dig ved hjælp af følgende formular: [Tilmelding](/tilmelding/hjæ
 Du kan stadig forhåndstilmelde dig her: [Forhåndstilmelding](/tilmelding/hjælper-forhåndstilmelding). -->
 Når du har tilmeldt dig vil du få en automatisk bekræftelsesmail, her har du mulighed for at tjekke dine indtastede oplysninger.
 
-Du skal have en fast aftale med et udvalg under Tydal Jamborette 2024 for at kunne tilmelde dig.
-Du kan melde dig frivillig ved at udfylde formularen [her](/bliv-hjaelper/).
+<!-- Du skal have en fast aftale med et udvalg under Tydal Jamborette 2024 for at kunne tilmelde dig.
+Du kan melde dig frivillig ved at udfylde formularen [her](/bliv-hjaelper/). -->
 
 Vil du tilmelde din gruppe? Læs mere om tilmelding af din gruppe [her](/tilmelding/).
 
