@@ -4,7 +4,7 @@ title: "Bliv hjælper"
 permalink: "/bliv-hjaelper/"
 ---
 
-Tilmeld dig som hjælper på [jamborette.de/tilmelding/hjælper](jamborette.de/tilmelding/hjælper)
+Tilmeld dig som hjælper på [https://jamborette.de/tilmelding/hjælper](https://jamborette.de/tilmelding/hjælper)
 
 <!--
 Har du lyst til at være hjælper på Jamborette 2024?
