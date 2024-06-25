@@ -5,6 +5,8 @@ permalink: "/lejrtøj/"
 comments: false
 ---
 
+**25.06.24 - Lejrtøjsforudbestilling er lukket. Det vil være muligt at købe lejrtøj i kiosken på lejren.**
+
 Du kan nu bestille lejrtøj til Tydal Jamborette 2024. På denne side finder du en masse information om lejrtøjet.
 # Bestilling
 Du kan bestille dit lejrtøj her: [jamborette.de/lejrtøj/bestilling/](/lejrtøj/bestilling/).
