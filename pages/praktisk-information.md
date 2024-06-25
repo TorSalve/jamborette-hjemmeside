@@ -24,6 +24,7 @@ comments: false
   - [Kølerum til medicin eller specielle behov](#kølerum-til-medicin-eller-specielle-behov)
   - [Køkkengrej pakkeliste](#køkkengrej-pakkeliste)
   - [Startpakke](#startpakke)
+  - [Kogebog](#kogebog)
 - [Gruppens lejrplads](#gruppens-lejrplads)
   - [Bålsteder](#bålsteder)
   - [Fedtfælder](#fedtfælder)
@@ -118,6 +119,8 @@ Udover det sædvanlige spejder køkkengrej, har i brug for en kartoffelmoser, en
 For at undgå at bruge staniol eller husholdningsfilm kan I tage bivoks madpapir/bivoks wraps med (30cm x 30cm). Det kunne med fordel laves som før opgave på et spejdermøde. 
 ## Startpakke
 Hver gruppe får udleveret en startkasse med almindelige krydderier og affaldsposer, samt en kogebog.
+## Kogebog
+Du kan finde Jambogrette 2024, vores kogebog, på [jamborette.de/kogebog/](/kogebog/)
 
 # Gruppens lejrplads
 ## Bålsteder
@@ -188,7 +191,7 @@ I Tyskland alameres det frivillige brandvæsen vha. sirener, som hyler 3 gange i
 <br>
 Vi melder løbende mere praktisk information ud. <a href="/kontakt/">Kontakt os</a>, hvis du har spørgsmål.
 <br>
-Senest opdateret: 19.05.24.
+Senest opdateret: 25.06.24.
 </div>
 
 <a href="#top">Tilbage til toppen af siden.</a>
