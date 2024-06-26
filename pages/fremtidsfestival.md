@@ -20,31 +20,32 @@ Hver gruppe bliver tildelt et specifikt tema, som deres aktivitet skal bygge på
 
 Temaerne er kreativitet, kommunikation, bæredygtig mad, problemløsning og teamwork. Grupperne får tildelt et emne efter den endelige tilmelding.
 
-| Gruppe                           | Tema til fremtidsfestivalen |
-| -------------------------------- | --------------------------- |
-| Bjerg-gruppen                    | Kommunikation               |
-| Bülow Gruppe                     | Bæredygtig mad              |
-| Hinnerup                         | Problemløsning              |
-| DDS Thorshøj                     | Teamwork                    |
-| Tullebølle                       | Kreativitet                 |
-| Vigge                            | Kommunikation               |
-| Arns Herred Gruppen              | Bæredygtig mad              |
-| Agerskov Ravne                   | Problemløsning              |
-| Slesvig Spejdergruppe            | Teamwork                    |
-| Kærne Gruppe                     | Kreativitet                 |
-| Assens Spejderne                 | Kommunikation               |
-| 1.  Hornslet Trop                | Bæredygtig mad              |
-| Yggdrasil Spejdergruppe          | Problemløsning              |
-| Karsten Thomsen Gruppe           | Teamwork                    |
-| KFUM-spejderne i Løgumkloster    | Kreativitet                 |
-| Bredsten Gruppe                  | Kommunikation               |
-| Klosterspejderne                 | Bæredygtig mad              |
-| Bjerg – Stenderup Spejderne      | Problemløsning              |
-| Pionererne                       | Teamwork                    |
-| Angelbo                          | Kreativitet                 |
-| Stevns-Nord                      | Kommunikation               |
-| Filip Gruppe                     | Bæredygtig mad              |
-| Romsley & St Kenelms Scout Group | Problem solving             |
+| **Gruppe**                        | **Tema til fremtidsfestivalen** |
+| --------------------------------- | ------------------------------- |
+| 1.Hornslet trop                   | Bæredygtig mad                  |
+| 5th Wicklow Sea Scouts            | Kreativitet                     |
+| Agerskov Ravne                    | Problemløsning                  |
+| Angelbo                           | Kreativitet                     |
+| Ansgar Gruppe                     | Problemløsning                  |
+| Arns Herred Gruppe                | Bæredygtig mad                  |
+| AssensSpejderne                   | Kommunikation                   |
+| Bjerg-Gruppen                     | Kommunikation                   |
+| Bülow Gruppe                      | Bæredygtig mad                  |
+| Ejstrupholm gruppe/ Ådalens afkom | Teamwork                        |
+| Filip Gruppe                      | Bæredygtig mad                  |
+| Hinnerup Gruppen                  | Problemløsning                  |
+| Inca Spejderne Sydfyn             | Kreativitet                     |
+| Karsten Thomsen Gruppen           | Teamwork                        |
+| KFUM Bjert-Stenderup Spejderne    | Problemløsning                  |
+| Klosterspejderne Løgumkloster     | Bæredygtig mad                  |
+| Kærne Gruppe                      | Kreativitet                     |
+| Pionererne                        | Teamwork                        |
+| Skovgruppen                       | Kommunikation                   |
+| Slesvig Gruppe                    | Teamwork                        |
+| Stevns-Nord Gruppe                | Kommunikation                   |
+| Tullebølle                        | Kreativitet                     |
+| Vigge Gruppe                      | Kommunikation                   |
+| Yggdrasil Gruppe                  | Problemløsning                  |
 
 # Få jeres forældre og familie på besøg
 
