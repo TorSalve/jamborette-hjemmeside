@@ -17,9 +17,11 @@ Læs mere om DSS på [spejder.de](https://spejder.de/), om lejrens vision [her](
 
 # Kom på besøg
 
-Der vil være muligh for at komme på besøg på lejren, helt gratis. Torsdag, d. 25. juli 2024 er den officielle besøgsdag -- vi melder mere ud når vi nærmer os.
+Der vil være mulighed for at komme på besøg på lejren, helt gratis. Torsdag, d. 25. juli 2024 er den officielle besøgsdag. Vi åbner porten for besøgnede kl 13.00, efter en fælles frokost, og siger pænt farvel kl 17.00, før aftensmadstid.
 
-Du kan læse mere om at finde vej til Tydal Jamborette på [Tydals hjemmeside](https://tydal.dk/find-vej/).
+Der er mulighed for at købe en kop kaffe og et stykke kage.
+
+Du kan læse mere om at finde vej til Tydal Jamborette på [Tydals hjemmeside](https://tydal.dk/find-vej/). Der er mulighed for parkering i svinget før Tydal og på Tydal Gård.
 
 # Send post til lejren
 

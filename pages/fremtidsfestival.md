@@ -49,4 +49,4 @@ Temaerne er kreativitet, kommunikation, bæredygtig mad, problemløsning og team
 
 # Få jeres forældre og familie på besøg
 
-Torsdag, d. 25. juli 2024 er den officielle besøgsdag -- vi melder mere ud når vi nærmer os. Hold øje med siden ['Hvad er Tydal Jamborette 2024?'](/hvis-du-er/forælder/) for mere information.
+Torsdag, d. 25. juli 2024 er den officielle besøgsdag. Hold øje med siden ['Hvad er Tydal Jamborette 2024?'](/hvis-du-er/forælder/) for mere information.
