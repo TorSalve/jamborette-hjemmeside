@@ -11,7 +11,32 @@ Torsdag bliver en helt særlig dag på Tydal Jamborette 2024 – det er nemlig �
 
 Det bliver en dag fyldt med sjove og lærerige aktiviteter, hvor spejderne kan udfolde deres kreativitet, forbedre kommunikationsevner, dykke ned i bæredygtig madlavning, løse problemer og styrke samarbejdet i lejrens fællesskab. Så glæd jer til en dag, der forbereder spejderne på en spændende fremtid!
 
-Det nærmere program og mere information bliver meld ud tættere på lejren.
+# Program
+
+08.00 - Morgenmad på lejrpladsen
+
+09.00 - Flaghejsning på paradepladsen
+
+09.30 - Fælles opstart ved scenen
+
+10.00 - Opbygning af aktivitet på lejrpladsen
+
+12.00 - Fælles frokost ved scenen
+
+13.00 - Fælles fremtidsfestival opstart ved scenen
+
+13.30 - Aktiviteter åbner på lejrpladsen
+
+16.30 - Aktiviteter lukker på lejrpladsen
+
+18.00 - Aftensmad på lejrpladsen
+
+19.30 - Fælles afslutning ved scenen
+
+21.30 - Afslutning
+
+*\* Der kan forekomme ændringer i programmet.*
+
 
 # Foropgave
 

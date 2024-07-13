@@ -10,4 +10,4 @@ comments: false
 Placeringer kan ændre sig.
 </small>
 
-<a class="btn btn-block btn-secondary text-white" href="https://drive.google.com/file/d/1XNu0TkMBExSO4tqYyuumDHr2anszOjMb/view?usp=sharing" target="_blank">Hent .pdf version</a>
+<a class="btn btn-block btn-secondary text-white" href="https://drive.google.com/file/d/1YubDSOdWoWSA9UW_uYZHq7azWemq-45G/view?usp=sharing" target="_blank">Hent .pdf version</a>
