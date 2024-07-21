@@ -15,6 +15,11 @@ På lejren vil spejderne blandt andet tage på en vandretur et sted i Sydslesvig
 
 Læs mere om DSS på [spejder.de](https://spejder.de/), om lejrens vision [her](/vision) og om Tydal på [tydal.de](https://tydal.dk/).
 
+# Tyddelyt, Tydal Jamborette 2024s lejravis
+Tyddelyt er spejdernes daglige kilde til alt, hvad der sker i lejren - fra spændende aktiviteter og udfordrende konkurrencer til hyggelige lejrbål og fællesspisning. Vores dedikerede team af spejderreportere arbejder hårdt for at bringe de seneste nyheder, inspirerende historier og sjove indslag direkte til spejderne. Hold øje med dagens udgave for tips og tricks, interviews med lejrens deltagere, og meget mere. Tyddelyt - fordi ingen eventyr er for små til at blive delt!
+
+Du kan nu læse Tyddelyt online her: [jamborette.de/tyddelyt](/tyddelyt).
+
 # Kom på besøg
 
 Der vil være mulighed for at komme på besøg på lejren, helt gratis. Torsdag, d. 25. juli 2024 er den officielle besøgsdag. Vi åbner porten for besøgnede kl 13.00, efter en fælles frokost, og siger pænt farvel kl 17.00, før aftensmadstid.

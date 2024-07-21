@@ -6,6 +6,8 @@ languages:
         url: "#"
         # external: true
         submenu:
+          - title: "Tyddelyt (Lejravis)"
+            url: "tyddelyt/"
           - title: "Logo"
             url: "logo/"
           - title: "Vision"
