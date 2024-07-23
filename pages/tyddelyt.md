@@ -21,9 +21,9 @@ Tyddelyt er din daglige kilde til alt, hvad der sker i lejren - fra spændende a
 3\. udgave - Mandag, 22. Juli 2024
 </a>
 
-<!-- <a class="btn btn-block btn-lg btn-secondary text-white" target="_blank" href="">
+<a class="btn btn-block btn-lg btn-secondary text-white" target="_blank" href="https://drive.google.com/file/d/1Ly5wGzA7kqT9DwB9lk-QsNdHsdF4F-H6/view?usp=drive_link">
 4\. udgave - Tirsdag, 23. Juli 2024
-</a> -->
+</a>
 
 <!-- <a class="btn btn-block btn-lg btn-secondary text-white" target="_blank" href="">
 5\. udgave - Onsdag, 24. Juli 2024
