@@ -1163,3 +1163,31 @@ iframe {
     background-color: white;
   }
 }
+
+.image-container {
+  position: relative;
+  text-align: center;
+
+  .bottom-left-in-image {
+    position: absolute;
+    bottom: 75px;
+    left: -60px;
+  }
+
+  .image-in-image {
+    width: 20%;
+  }
+
+  .centered-in-image {
+    position: absolute;
+    width: 100%;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    h1 {
+      color: #ffde66;
+      -webkit-text-stroke: 0.5px black;
+    }
+  }
+}
